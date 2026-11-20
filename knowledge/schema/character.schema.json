@@ -1,0 +1,99 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "aniverse/character.schema.json",
+  "title": "Ryuu Aniverse character knowledge pack",
+  "description": "knowledge/characters/NNN_<id>.json. Plan section 7.2. The prompt part (persona, personality, speech, abilities, facts, relationships, likes, dislikes, boundaries, secrets) must stay under ~900 tokens (~3,200 characters); the validator checks it.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "number", "name", "native_name", "glyph", "series", "pronoun", "age_band", "accent", "tags", "tagline",
+               "snapshot", "snapshot_date", "appearance", "persona", "personality", "speech", "abilities", "facts", "relationships",
+               "likes", "dislikes", "boundaries", "secrets", "default_scene", "greeting", "starters", "canon_events", "fact_checks",
+               "name_rules", "fallbacks", "plain_cues", "tone_limits", "verify", "sources"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9]+(_[a-z0-9]+)*$", "description": "snake_case, e.g. lelouch_lamperouge; file name is NNN_<id>.json" },
+    "number": { "type": "integer", "minimum": 1, "maximum": 100 },
+    "name": { "type": "string", "minLength": 2, "maxLength": 40 },
+    "native_name": { "type": "string", "minLength": 1, "maxLength": 40, "description": "Japanese (or original) spelling" },
+    "glyph": { "type": "string", "minLength": 1, "maxLength": 3, "description": "1-3 CJK characters for the watermark and fallback avatar (roster, plan section 11)" },
+    "series": { "type": "string", "pattern": "^[a-z0-9]+(_[a-z0-9]+)*$", "description": "series sheet id: knowledge/series/<series>.json" },
+    "pronoun": { "enum": ["he", "she", "they", "it"] },
+    "age_band": { "enum": ["child", "teen", "adult", "ageless"], "description": "Age AT the snapshot (content_policy.md)" },
+    "accent": { "type": "string", "pattern": "^#[0-9A-Fa-f]{6}$" },
+    "tags": { "type": "array", "minItems": 1, "maxItems": 4, "uniqueItems": true,
+      "items": { "enum": ["Mastermind", "Hero", "Villain", "Antihero", "Rival", "Mentor", "Comfort", "Comedy", "Warrior", "Genius", "Romance", "Mystery", "Leader", "Loner"] } },
+    "tagline": { "type": "string", "minLength": 5, "maxLength": 40, "description": "e.g. 'Exiled prince · the masked Zero'" },
+    "snapshot": { "type": "string", "minLength": 10, "maxLength": 220, "description": "Exact end point of their story (plan section 11 rules). Nothing after it is known." },
+    "snapshot_date": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$", "description": "Date the agent checked the snapshot (matters for ongoing series)" },
+    "appearance": { "type": "string", "minLength": 20, "maxLength": 300, "description": "One line: what they look like and wear AT the snapshot (used by the narrator and judge J4)" },
+    "persona": { "type": "string", "minLength": 80, "maxLength": 600, "description": "2-4 sentences, second person ('You are...'): who they are right now" },
+    "personality": { "type": "array", "minItems": 5, "maxItems": 8, "items": { "type": "string", "minLength": 2, "maxLength": 60 } },
+    "speech": {
+      "type": "object", "additionalProperties": false,
+      "required": ["style", "address_user", "tics", "sample_lines"],
+      "properties": {
+        "style": { "type": "string", "minLength": 40, "maxLength": 400, "description": "HOW they talk: sentence length, formality, attitude, quirks" },
+        "address_user": {
+          "type": "object", "additionalProperties": false, "required": ["default", "allowed"],
+          "properties": {
+            "default": { "type": "string", "description": "How they call the user, e.g. 'by their name', 'by their name with -kun', 'kid'" },
+            "allowed": { "type": "array", "maxItems": 6, "items": { "type": "string" }, "description": "Other forms that are fine" }
+          }
+        },
+        "tics": { "type": "array", "maxItems": 4, "items": { "type": "string", "maxLength": 40 }, "description": "Short catchphrases/verbal habits only" },
+        "sample_lines": { "type": "array", "minItems": 3, "maxItems": 3, "items": { "type": "string", "minLength": 10, "maxLength": 200 }, "description": "ORIGINAL lines in their voice, never quotes from the anime" }
+      }
+    },
+    "abilities": { "type": "string", "minLength": 20, "maxLength": 400 },
+    "facts": { "type": "array", "minItems": 8, "maxItems": 14, "items": { "type": "string", "minLength": 10, "maxLength": 200 },
+      "description": "Short, checkable 'never get these wrong' facts, true AT the snapshot" },
+    "relationships": { "type": "array", "minItems": 4, "maxItems": 8,
+      "items": { "type": "object", "additionalProperties": false, "required": ["name", "line"],
+        "properties": { "name": { "type": "string", "minLength": 2, "maxLength": 40 }, "line": { "type": "string", "minLength": 5, "maxLength": 160 } } } },
+    "likes": { "type": "array", "minItems": 3, "maxItems": 6, "items": { "type": "string", "maxLength": 60 } },
+    "dislikes": { "type": "array", "minItems": 3, "maxItems": 6, "items": { "type": "string", "maxLength": 60 } },
+    "boundaries": { "type": "array", "minItems": 2, "maxItems": 8, "items": { "type": "string", "minLength": 10, "maxLength": 200 },
+      "description": "What they don't know (after the snapshot, other worlds) and won't do; tone-down rules (content_policy.md section 3)" },
+    "secrets": { "type": "array", "maxItems": 4, "items": { "type": "string", "minLength": 10, "maxLength": 200 },
+      "description": "What they hide at the snapshot and how they deflect. Empty if nothing." },
+    "default_scene": { "type": "string", "minLength": 10, "maxLength": 200 },
+    "greeting": { "type": "string", "minLength": 5, "maxLength": 240, "description": "First message of a new chat, in their voice, fits default_scene" },
+    "starters": { "type": "array", "minItems": 4, "maxItems": 4, "items": { "type": "string", "minLength": 3, "maxLength": 80 }, "description": "Suggested first lines for the USER" },
+    "canon_events": { "type": "array", "minItems": 15, "maxItems": 40, "uniqueItems": true, "items": { "type": "string", "minLength": 2, "maxLength": 40 },
+      "description": "Lower-case keywords of real events, places, items, people they accept as true memories (judge never makes them deny these)" },
+    "fact_checks": { "type": "array", "minItems": 6, "maxItems": 12,
+      "items": { "type": "object", "additionalProperties": false, "required": ["topic_words", "fact"],
+        "properties": {
+          "topic_words": { "type": "array", "minItems": 1, "maxItems": 6, "items": { "type": "string", "minLength": 2, "maxLength": 30 } },
+          "fact": { "type": "string", "minLength": 10, "maxLength": 200 } } } },
+    "name_rules": {
+      "type": "object", "additionalProperties": false, "required": ["never_claims_to_be"],
+      "properties": {
+        "never_claims_to_be": { "type": "array", "maxItems": 8, "items": { "type": "string" }, "description": "Names they must never claim as their own (easily confused characters)" },
+        "also_known_as": { "type": "array", "maxItems": 6, "items": { "type": "string" }, "description": "Titles/aliases they DO accept (e.g. Zero, Kira, Hokage)" }
+      }
+    },
+    "fallbacks": {
+      "type": "object", "additionalProperties": false, "required": ["not_remember", "cant_know", "refuse"],
+      "properties": {
+        "not_remember": { "type": "array", "minItems": 2, "maxItems": 2, "items": { "type": "string", "maxLength": 140 } },
+        "cant_know": { "type": "array", "minItems": 2, "maxItems": 2, "items": { "type": "string", "maxLength": 140 } },
+        "refuse": { "type": "array", "minItems": 2, "maxItems": 2, "items": { "type": "string", "maxLength": 140 }, "description": "In-character refusal (unsafe request, too far, assistant work)" }
+      }
+    },
+    "plain_cues": { "type": "array", "minItems": 3, "maxItems": 3, "items": { "type": "string", "minLength": 10, "maxLength": 120 },
+      "description": "Safe gesture lines with {user_name}, used if every narrated cue was odd" },
+    "tone_limits": {
+      "type": "object", "additionalProperties": false, "required": ["type", "rules"],
+      "properties": {
+        "type": { "enum": ["none", "child", "cruel_villain", "self_harm_theme", "lecherous_canon", "fanservice_canon", "not_human", "dies_at_end"],
+          "description": "content_policy.md section 3 (pick the main one)" },
+        "rules": { "type": "array", "maxItems": 4, "items": { "type": "string", "maxLength": 200 } }
+      }
+    },
+    "verify": { "type": "array", "items": { "type": "string", "maxLength": 200 }, "description": "Facts the agent is NOT sure about. The user checks these." },
+    "sources": { "type": "array", "minItems": 1,
+      "items": { "type": "object", "additionalProperties": false, "required": ["url", "checked"],
+        "properties": { "url": { "type": "string", "pattern": "^https?://" }, "checked": { "type": "string", "pattern": "^(\\d{4}-\\d{2}-\\d{2}|unchecked)$", "description": "Date the page was actually opened, or 'unchecked' (written from memory; the validator warns)" } } },
+      "description": "Pages checked (links only, no copied text)" }
+  }
+}

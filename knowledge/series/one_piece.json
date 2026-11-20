@@ -1,0 +1,53 @@
+{
+  "id": "one_piece",
+  "title": "One Piece",
+  "native_title": "ONE PIECE",
+  "status": "ongoing",
+  "source": "One Piece manga by Eiichiro Oda (ongoing, final saga). Snapshots of living characters use the latest published arc; Ace and Whitebeard end at Marineford.",
+  "world": "A world of oceans and islands split by the Red Line and the Grand Line, ruled by the World Government and its Navy (the Marines). Pirates chase the legendary treasure One Piece left by Gol D. Roger, the King of the Pirates. Monkey D. Luffy and the Straw Hat Pirates sail to find it, freeing islands from tyrants along the way. The tone is adventurous, funny and warm, with dark history about the Void Century.",
+  "power_system": "Devil Fruits give one power each (Paramecia, Zoan, Logia) but take away the ability to swim. Haki is willpower with three kinds: Observation, Armament and the rare Conqueror's. Swordsmen, martial arts like Sanji's kicks, and Haki matter as much as fruits.",
+  "places": [
+    { "name": "Grand Line", "line": "The dangerous central sea every pirate must cross." },
+    { "name": "New World", "line": "The second half of the Grand Line, ruled by the Emperors." },
+    { "name": "Marineford", "line": "Former Marine headquarters; site of the Summit War." },
+    { "name": "Wano Country", "line": "Samurai land freed from Kaido by Luffy's alliance." },
+    { "name": "Dressrosa", "line": "Kingdom freed from Doflamingo by Luffy and Law." },
+    { "name": "Thousand Sunny", "line": "The Straw Hats' ship, built by Franky." },
+    { "name": "Elbaph", "line": "Island of the giants." }
+  ],
+  "groups": [
+    { "name": "Straw Hat Pirates", "line": "Luffy's crew: Zoro, Nami, Usopp, Sanji, Chopper, Robin, Franky, Brook, Jinbe." },
+    { "name": "Whitebeard Pirates", "line": "Edward Newgate's crew, who call him Pops; Ace led the 2nd Division." },
+    { "name": "Red Hair Pirates", "line": "Shanks's crew." },
+    { "name": "Heart Pirates", "line": "Trafalgar Law's crew." },
+    { "name": "Four Emperors (Yonko)", "line": "The four strongest pirate captains of the New World." },
+    { "name": "World Government and Marines", "line": "The ruling power and its navy." }
+  ],
+  "terms": [
+    { "term": "One Piece", "line": "The treasure left by Gol D. Roger at the end of the Grand Line." },
+    { "term": "Devil Fruit", "aliases": ["devil fruits"], "line": "Fruit that grants one power and takes away swimming." },
+    { "term": "Haki", "aliases": ["conqueror's haki", "armament", "observation"], "line": "Willpower used to sense, harden or overpower." },
+    { "term": "Gear 5", "aliases": ["sun god nika", "nika"], "line": "Luffy's awakened Gum-Gum form, the Sun God Nika." },
+    { "term": "Yonko", "aliases": ["emperor", "emperors"], "line": "One of the four rulers of the New World seas." },
+    { "term": "bounty", "line": "Price the World Government puts on a pirate's head." },
+    { "term": "Will of D.", "aliases": ["the d"], "line": "Mysterious initial carried by people like Luffy and Ace." },
+    { "term": "Void Century", "line": "The 100 years erased from history; Robin seeks the truth." },
+    { "term": "Poneglyph", "aliases": ["poneglyphs", "road poneglyph"], "line": "Indestructible stones with ancient history that Robin can read." },
+    { "term": "Santoryu", "aliases": ["three sword style"], "line": "Zoro's three-sword fighting style." },
+    { "term": "Ope Ope no Mi", "aliases": ["op-op fruit", "room"], "line": "Law's surgery fruit that creates a ROOM." }
+  ],
+  "timeline": [
+    { "arc": "East Blue", "summary": "Luffy gathers Zoro, Nami, Usopp and Sanji." },
+    { "arc": "Alabasta to Enies Lobby", "summary": "Robin joins; the crew declares war on the World Government to save her." },
+    { "arc": "Marineford", "summary": "The Summit War: Luffy tries to save Ace; Ace and Whitebeard die." },
+    { "arc": "Time-skip", "summary": "Two years of training; the crew reunites at Sabaody." },
+    { "arc": "Dressrosa", "summary": "Alliance with Law; Doflamingo falls." },
+    { "arc": "Whole Cake Island", "summary": "Rescue of Sanji from Big Mom." },
+    { "arc": "Wano", "summary": "Kaido is defeated; Luffy awakens Gear 5 and becomes an Emperor." },
+    { "arc": "Egghead and later", "summary": "Final saga: after Egghead the crew reaches Elbaph. Robin finds Jaguar D. Saul alive. The Holy Knights (Shamrock, Gunko, Sommers, Killingham) invade, then Imu arrives. The war on Elbaph is ongoing as of chapter 1198 (Nov 2026)." }
+  ],
+  "shared_canon_events": ["east blue", "grand line", "new world", "marineford", "summit war", "time-skip", "sabaody", "dressrosa", "wano", "whole cake island", "egghead", "elbaph", "thousand sunny", "going merry", "straw hat", "one piece", "devil fruit", "haki", "gear 5", "emperor", "yonko", "gol d. roger", "roger", "whitebeard", "blackbeard", "kaido", "big mom", "doflamingo", "garp", "sabo", "nami", "usopp", "chopper", "franky", "brook", "jinbe", "meat", "bounty", "holy knights", "loki", "imu", "god valley", "shamrock"],
+  "characters_in_app": ["022_monkey_d_luffy", "023_roronoa_zoro", "036_nico_robin", "052_shanks", "053_trafalgar_law", "054_sanji", "055_portgas_d_ace", "091_edward_newgate"],
+  "verify": [],
+  "sources": [{ "url": "https://onepiece.fandom.com/wiki/One_Piece_Wiki", "checked": "unchecked" }]
+}

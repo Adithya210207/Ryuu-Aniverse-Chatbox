@@ -1,0 +1,46 @@
+{
+  "id": "demon_slayer",
+  "title": "Demon Slayer",
+  "native_title": "鬼滅の刃",
+  "status": "finished",
+  "source": "Demon Slayer: Kimetsu no Yaiba manga by Koyoharu Gotouge (205 chapters), to Muzan's defeat. The modern-day epilogue about descendants is not used.",
+  "world": "Taisho-era Japan, where man-eating demons hunt at night and the secret Demon Slayer Corps hunts them back. After demons kill his family and turn his sister Nezuko into a demon, kind-hearted Tanjiro Kamado joins the Corps to save her. The strongest swordsmen, the Hashira, lead the fight against Muzan Kibutsuji, the first demon. Gentle family warmth set against tragic battles.",
+  "power_system": "Demon slayers use Breathing Styles (Water, Flame, Thunder, Beast, Insect and more) with Nichirin swords that change colour; only sunlight or a Nichirin blade to the neck kills a demon. Demons regenerate and have Blood Demon Arts; the Twelve Kizuki are Muzan's strongest. Demon Slayer Marks boost a fighter's power.",
+  "places": [
+    { "name": "Kamado home", "line": "Mountain home where Tanjiro's family was attacked." },
+    { "name": "Butterfly Mansion", "line": "Shinobu's estate where slayers heal and train." },
+    { "name": "Mugen Train", "line": "Train where Rengoku fought Enmu and Akaza." },
+    { "name": "Entertainment District", "line": "Yoshiwara, where the slayers fought the Upper Six." },
+    { "name": "Swordsmith Village", "line": "Hidden village where Nichirin swords are made." },
+    { "name": "Infinity Castle", "line": "Muzan's shifting fortress for the final battle." }
+  ],
+  "groups": [
+    { "name": "Demon Slayer Corps", "line": "Secret organisation of demon hunters led by the Ubuyashiki family." },
+    { "name": "Hashira", "line": "The nine strongest slayers (Flame, Water, Insect, Sound, Love, Mist, Serpent, Wind, Stone)." },
+    { "name": "Twelve Kizuki", "line": "Muzan's Upper and Lower Moons." }
+  ],
+  "terms": [
+    { "term": "Breathing Style", "aliases": ["breathing", "total concentration"], "line": "A sword style using special breathing to fight demons." },
+    { "term": "Nichirin sword", "aliases": ["nichirin"], "line": "Blade made from sun-absorbing ore; it changes colour for its owner." },
+    { "term": "Hashira", "line": "One of the Corps' top swordsmen." },
+    { "term": "Upper Moon", "aliases": ["upper moons", "kizuki"], "line": "The six strongest demons under Muzan." },
+    { "term": "Muzan", "aliases": ["muzan kibutsuji"], "line": "The first demon, who made all others." },
+    { "term": "Sun Breathing", "aliases": ["hinokami kagura"], "line": "The original breathing style, passed down in Tanjiro's family dance." },
+    { "term": "Demon Slayer Mark", "aliases": ["mark"], "line": "Mark that appears on a slayer's body when power surges." },
+    { "term": "haori", "line": "The short coat slayers wear over their uniform." },
+    { "term": "kasugai crow", "aliases": ["crow"], "line": "Talking crows that deliver missions." }
+  ],
+  "timeline": [
+    { "arc": "Final Selection", "summary": "Tanjiro trains with Urokodaki and passes the selection." },
+    { "arc": "Natagumo Mountain", "summary": "Fight with Rui; Tanjiro meets the Hashira." },
+    { "arc": "Mugen Train", "summary": "Rengoku dies protecting everyone from Akaza." },
+    { "arc": "Entertainment District", "summary": "Tengen, Tanjiro, Zenitsu and Inosuke defeat the Upper Six." },
+    { "arc": "Swordsmith Village", "summary": "Nezuko conquers the sun." },
+    { "arc": "Hashira Training", "summary": "The Hashira train every slayer." },
+    { "arc": "Infinity Castle and final battle", "summary": "Shinobu dies fighting Doma; the Corps defeats Muzan at dawn; Nezuko becomes human again." }
+  ],
+  "shared_canon_events": ["final selection", "urokodaki", "natagumo", "rui", "mugen train", "akaza", "entertainment district", "yoshiwara", "gyutaro", "daki", "tengen", "swordsmith village", "hashira training", "infinity castle", "doma", "kokushibo", "muzan", "butterfly mansion", "kanao", "nezuko", "sun breathing", "hinokami kagura", "nichirin", "ubuyashiki", "kasugai crow", "tamayo"],
+  "characters_in_app": ["026_tanjiro_kamado", "065_kyojuro_rengoku", "066_giyu_tomioka", "067_shinobu_kocho", "068_zenitsu_agatsuma", "069_inosuke_hashibira"],
+  "verify": [],
+  "sources": [{ "url": "https://kimetsu-no-yaiba.fandom.com/wiki/Kimetsu_no_Yaiba_Wiki", "checked": "unchecked" }]
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "notes": [
+    "Shape of persona.json (saved next to the app, never shared). Filled in Persona setup.",
+    "under_18 is asked once on first start and sets the romance matrix (content_policy.md). null = not asked yet: the app asks before the first chat.",
+    "overrides: per-character changes, keyed by character id; any field left out uses the global value.",
+    "The system prompt's {persona_block} is built as: \"{name}. {bio} How you met: {how_met}\" (parts left out when empty).",
+    "Empty name -> {user_name} = \"the person you're talking with\" and {persona_block} = \"Someone you met recently; you don't know much about them yet.\""
+  ],
+  "global": {
+    "name": "",
+    "bio": "",
+    "how_met": "",
+    "under_18": null
+  },
+  "overrides": {
+    "example_character_id": {
+      "name": "",
+      "bio": "",
+      "how_met": ""
+    }
+  },
+  "limits": {
+    "name_max_chars": 40,
+    "bio_max_chars": 300,
+    "how_met_max_chars": 400
+  }
+}

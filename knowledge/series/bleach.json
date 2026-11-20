@@ -1,0 +1,50 @@
+{
+  "id": "bleach",
+  "title": "Bleach",
+  "native_title": "BLEACH",
+  "status": "finished",
+  "source": "Bleach manga by Tite Kubo (686 chapters), up to the epilogue ten years after the Thousand-Year Blood War.",
+  "world": "Karakura Town teenager Ichigo Kurosaki gains the powers of a Soul Reaper (Shinigami) and protects the living from Hollows, evil spirits. The afterlife city Soul Society is guarded by the Gotei 13, thirteen divisions led by captains. The story moves through the rescue of Rukia, Aizen's betrayal and the Arrancar war, and the Thousand-Year Blood War against the Quincy. Cool swords, stylish fights and loyalty between friends define its tone.",
+  "power_system": "Soul Reapers fight with zanpakuto, living swords with a released form (Shikai) and a stronger final form (Bankai), powered by spiritual pressure (reiatsu). Hollows wear masks; Arrancar are Hollows who removed them. Quincy use bows of spirit energy. Kido are spells.",
+  "places": [
+    { "name": "Karakura Town", "line": "Ichigo's home town in the human world." },
+    { "name": "Soul Society", "line": "The afterlife; Seireitei is the Soul Reapers' walled city inside it." },
+    { "name": "Hueco Mundo", "line": "Desert world of the Hollows." },
+    { "name": "Las Noches", "line": "Aizen's fortress in Hueco Mundo." },
+    { "name": "Muken", "line": "The deepest prison of Soul Society, where Aizen is held." },
+    { "name": "Urahara Shop", "line": "Urahara's candy shop in Karakura with a training ground underneath." }
+  ],
+  "groups": [
+    { "name": "Gotei 13", "line": "Soul Society's thirteen divisions, each led by a captain." },
+    { "name": "Espada", "line": "Aizen's ten strongest Arrancar." },
+    { "name": "Wandenreich", "line": "Yhwach's Quincy army in the Thousand-Year Blood War." },
+    { "name": "Visored", "line": "Soul Reapers with Hollow powers, once exiled." }
+  ],
+  "terms": [
+    { "term": "Soul Reaper", "aliases": ["shinigami"], "line": "Guardians of souls who send the dead on and fight Hollows." },
+    { "term": "Hollow", "aliases": ["hollows"], "line": "Corrupted spirit with a white mask." },
+    { "term": "Arrancar", "line": "A Hollow that gained Soul Reaper-like powers." },
+    { "term": "zanpakuto", "line": "A Soul Reaper's living sword." },
+    { "term": "Shikai", "line": "The first release of a zanpakuto." },
+    { "term": "Bankai", "line": "The final, strongest release of a zanpakuto." },
+    { "term": "Hogyoku", "line": "The orb Urahara made and Aizen merged with." },
+    { "term": "Quincy", "line": "Humans who destroy Hollows with spirit arrows; Uryu is one." },
+    { "term": "reiatsu", "aliases": ["spiritual pressure"], "line": "The weight of a person's spiritual power." },
+    { "term": "Kyoka Suigetsu", "line": "Aizen's zanpakuto that hypnotises anyone who has seen its release." },
+    { "term": "Zangetsu", "line": "Ichigo's zanpakuto." },
+    { "term": "Senbonzakura", "line": "Byakuya's zanpakuto: a thousand cherry-blossom blades." }
+  ],
+  "timeline": [
+    { "arc": "Substitute Soul Reaper", "summary": "Ichigo gets Rukia's powers and fights Hollows." },
+    { "arc": "Soul Society", "summary": "Ichigo and friends invade to save Rukia; Aizen betrays Soul Society and leaves with Gin and Tosen." },
+    { "arc": "Arrancar", "summary": "Aizen's Espada attack; Orihime is taken to Hueco Mundo and rescued." },
+    { "arc": "Fake Karakura Town", "summary": "Ichigo defeats Aizen with the Final Getsuga Tensho and loses his powers; Aizen is sealed." },
+    { "arc": "Lost Agent", "summary": "Ichigo regains his powers." },
+    { "arc": "Thousand-Year Blood War", "summary": "Yhwach's Quincy invade; Aizen is freed to help; Ichigo strikes down Yhwach." },
+    { "arc": "Epilogue", "summary": "Ten years later Ichigo and Orihime are married with a son, Kazui." }
+  ],
+  "shared_canon_events": ["karakura", "soul society", "seireitei", "hueco mundo", "las noches", "gotei 13", "rukia", "renji", "uryu", "chad", "aizen's betrayal", "espada", "ulquiorra", "grimmjow", "final getsuga tensho", "fake karakura town", "thousand-year blood war", "yhwach", "quincy", "bankai", "shikai", "hogyoku", "muken", "urahara shop", "yoruichi", "kazui", "zangetsu", "senbonzakura", "yachiru", "gin"],
+  "characters_in_app": ["004_sosuke_aizen", "044_ichigo_kurosaki", "045_orihime_inoue", "049_kisuke_urahara", "050_kenpachi_zaraki", "051_byakuya_kuchiki"],
+  "verify": [],
+  "sources": [{ "url": "https://bleach.fandom.com/wiki/Bleach_Wiki", "checked": "unchecked" }]
+}

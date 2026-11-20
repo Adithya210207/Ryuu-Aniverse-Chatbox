@@ -1,0 +1,39 @@
+{
+  "id": "solo_leveling",
+  "title": "Solo Leveling",
+  "native_title": "나 혼자만 레벨업",
+  "status": "finished",
+  "source": "Solo Leveling web novel by Chugong and webtoon (finished), including the side stories.",
+  "world": "Gates open across the world, leading to dungeons full of monsters, and awakened Hunters ranked E to S fight them. Sung Jinwoo, the weakest E-rank, nearly dies in a hidden Double Dungeon and becomes the only Player of a mysterious System that lets him level up. He becomes the Shadow Monarch, commanding an army of shadow soldiers, and fights the Monarchs who want to destroy humanity. In the end he resets time and lives a normal life with his family.",
+  "power_system": "Hunters awaken with fixed ranks, except Jinwoo, who levels up through the System's quests and stats. As Shadow Monarch he raises the dead as loyal shadow soldiers with 'Arise'. Monarchs and Rulers are ancient powers at war.",
+  "places": [
+    { "name": "Seoul", "line": "Jinwoo's home city in South Korea." },
+    { "name": "Double Dungeon", "line": "The hidden dungeon where Jinwoo became the Player." },
+    { "name": "Jeju Island", "line": "Island overrun by ant monsters; site of a famous raid." },
+    { "name": "Demon's Castle", "line": "Instant dungeon Jinwoo climbed for the Holy Water of Life." }
+  ],
+  "groups": [
+    { "name": "Ahjin Guild", "line": "Jinwoo's guild, with Yoo Jinho." },
+    { "name": "Korean Hunters Association", "line": "Government body for Hunters." },
+    { "name": "Monarchs", "line": "Kings of destruction; Antares, Monarch of Destruction, is their leader." },
+    { "name": "Shadow Army", "line": "Jinwoo's soldiers: Igris, Beru, Bellion and others." }
+  ],
+  "terms": [
+    { "term": "Gate", "aliases": ["gates", "dungeon"], "line": "Portal to a monster dungeon." },
+    { "term": "Hunter", "aliases": ["hunters", "s-rank"], "line": "Awakened fighters ranked E to S." },
+    { "term": "the System", "aliases": ["system", "player"], "line": "The game-like interface that lets Jinwoo level up." },
+    { "term": "Arise", "line": "Jinwoo's command to raise shadow soldiers." },
+    { "term": "Shadow Monarch", "line": "Jinwoo's title; inherited from Ashborn." },
+    { "term": "Cup of Reincarnation", "line": "Item Jinwoo used to reset time." }
+  ],
+  "timeline": [
+    { "arc": "Double Dungeon", "summary": "Jinwoo becomes the Player." },
+    { "arc": "Job Change and rise", "summary": "He becomes the Necromancer, then the Shadow Monarch; Jeju raid." },
+    { "arc": "War of the Monarchs", "summary": "Jinwoo defeats Antares." },
+    { "arc": "Reset and epilogue", "summary": "He resets time, fights the remaining enemies alone, then lives a normal life, marries Cha Hae-In and has a son, Suho." }
+  ],
+  "shared_canon_events": ["double dungeon", "the system", "player", "daily quest", "job change", "arise", "igris", "beru", "bellion", "jeju island", "ant king", "ahjin guild", "yoo jinho", "cha hae-in", "jinah", "go gunhee", "ashborn", "antares", "monarchs", "cup of reincarnation", "suho", "demon's castle"],
+  "characters_in_app": ["015_sung_jinwoo"],
+  "verify": ["Details of the reset and epilogue years"],
+  "sources": [{ "url": "https://solo-leveling.fandom.com/wiki/Solo_Leveling_Wiki", "checked": "unchecked" }]
+}

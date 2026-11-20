@@ -1,0 +1,41 @@
+{
+  "id": "dragon_ball",
+  "title": "Dragon Ball",
+  "native_title": "ドラゴンボール",
+  "status": "ongoing",
+  "source": "Dragon Ball manga by Akira Toriyama and Dragon Ball Super manga (Toyotarou, ongoing). Snapshots use the latest published Super arc.",
+  "world": "Saiyan warrior Goku grows from a monkey-tailed boy into Earth's greatest defender, fighting ever stronger foes alongside his rival, Saiyan prince Vegeta. Wishes come from the seven Dragon Balls. In Dragon Ball Super they train with the gods of destruction and angels, compete in the Tournament of Power, and face new threats across the multiverse. Upbeat martial-arts action, big transformations and family comedy.",
+  "power_system": "Fighters use ki for flight, energy blasts (Kamehameha, Galick Gun, Final Flash) and sensing. Saiyans transform (Super Saiyan, God, Blue); Goku reaches Ultra Instinct and Vegeta Ultra Ego. Collecting all seven Dragon Balls summons the dragon Shenron to grant wishes.",
+  "places": [
+    { "name": "Earth", "line": "Home of Goku's family and friends." },
+    { "name": "Capsule Corporation", "line": "Bulma's family company and Vegeta's home." },
+    { "name": "Beerus's planet", "line": "Where Whis trains Goku and Vegeta." },
+    { "name": "Planet Vegeta", "line": "The Saiyans' destroyed home world." }
+  ],
+  "groups": [
+    { "name": "Z Fighters", "line": "Earth's defenders: Goku, Vegeta, Gohan, Piccolo, Krillin and others." },
+    { "name": "Gods of Destruction and Angels", "line": "Beerus and his attendant Whis." },
+    { "name": "Galactic Patrol", "line": "Space police from the Moro arc." }
+  ],
+  "terms": [
+    { "term": "Dragon Balls", "aliases": ["dragon ball", "shenron"], "line": "Seven balls that summon a wish-granting dragon." },
+    { "term": "Super Saiyan", "aliases": ["super saiyan blue", "ssj"], "line": "Saiyan transformation with golden hair." },
+    { "term": "Ultra Instinct", "line": "Goku's state where the body moves on its own." },
+    { "term": "Ultra Ego", "line": "Vegeta's destroyer-style form." },
+    { "term": "Kamehameha", "line": "Goku's signature energy wave." },
+    { "term": "Tournament of Power", "line": "Multiverse tournament where losing universes are erased." },
+    { "term": "Saiyan", "aliases": ["saiyans"], "line": "Warrior race that grows stronger after every fight." },
+    { "term": "senzu bean", "aliases": ["senzu"], "line": "Bean that fully heals." }
+  ],
+  "timeline": [
+    { "arc": "Dragon Ball", "summary": "Kid Goku's adventures with Bulma." },
+    { "arc": "Saiyan to Buu (Z)", "summary": "Vegeta arrives; Frieza, Cell and Majin Buu are defeated." },
+    { "arc": "Super: Gods and Tournament of Power", "summary": "Beerus, Whis, Goku Black, the Tournament of Power." },
+    { "arc": "Super: Moro, Granolah and later", "summary": "Ultra Instinct and Ultra Ego; Black Frieza appears (latest arcs: check the date)." },
+    { "arc": "Super Hero (to ch. 104)", "summary": "Gohan's Beast form beats Cell Max; Goku tests Gohan on Beerus's planet; Goten and Trunks become Saiyaman X-1 and X-2. Manga on hiatus after ch. 104." }
+  ],
+  "shared_canon_events": ["dragon balls", "shenron", "kamehameha", "super saiyan", "ultra instinct", "ultra ego", "frieza", "cell", "majin buu", "beerus", "whis", "tournament of power", "jiren", "goku black", "moro", "granolah", "black frieza", "bulma", "chi-chi", "gohan", "goten", "trunks", "bulla", "pan", "piccolo", "krillin", "senzu", "namek", "capsule corp"],
+  "characters_in_app": ["028_goku", "029_vegeta"],
+  "verify": [],
+  "sources": [{ "url": "https://dragonball.fandom.com/wiki/Dragon_Ball_Wiki", "checked": "unchecked" }]
+}

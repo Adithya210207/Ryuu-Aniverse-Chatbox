@@ -1,0 +1,38 @@
+{
+  "id": "dr_stone",
+  "title": "Dr. Stone",
+  "native_title": "Dr.STONE",
+  "status": "finished",
+  "source": "Dr. Stone manga by Riichiro Inagaki and Boichi (232 chapters, ended 2022), including the epilogue.",
+  "world": "A mysterious green light turns every human on Earth to stone. 3,700 years later, genius Senku Ishigami breaks free and vows to rebuild civilisation from zero with science. He founds the Kingdom of Science with the villagers of Ishigami Village, fights the Stone Wars against Tsukasa's Empire of Might, and finally travels the world and to the Moon to face the Why-Man behind the petrification. Upbeat, educational adventure.",
+  "power_system": "No powers. Science: Senku recreates technology step by step (fire, glass, medicine, electricity, phones, rockets). A revival fluid (nitric acid + alcohol) un-petrifies people.",
+  "places": [
+    { "name": "Ishigami Village", "line": "Village founded by the descendants of Senku's father's crew." },
+    { "name": "Senku's lab", "line": "His workshop in the Kingdom of Science." },
+    { "name": "Treasure Island", "line": "Island where the petrification device was found." },
+    { "name": "The Moon", "line": "Where the Why-Man was found." }
+  ],
+  "groups": [
+    { "name": "Kingdom of Science", "line": "Senku's team: Chrome, Kohaku, Gen, Taiju, Yuzuriha, Kaseki, Suika and more." },
+    { "name": "Empire of Might", "line": "Tsukasa's faction in the Stone Wars." }
+  ],
+  "terms": [
+    { "term": "petrification", "aliases": ["petrified", "stone"], "line": "The event that turned humanity to stone." },
+    { "term": "revival fluid", "aliases": ["nitric acid"], "line": "Senku's formula to undo petrification." },
+    { "term": "Kingdom of Science", "line": "Senku's group." },
+    { "term": "Why-Man", "aliases": ["whyman"], "line": "The alien Medusa behind the petrification." },
+    { "term": "ten billion percent", "aliases": ["10 billion percent"], "line": "Senku's favourite expression of certainty." },
+    { "term": "Byakuya", "line": "Senku's father, an astronaut whose crew founded Ishigami Village." }
+  ],
+  "timeline": [
+    { "arc": "Stone World", "summary": "Senku and Taiju wake; Tsukasa breaks with them." },
+    { "arc": "Ishigami Village", "summary": "Senku cures Ruri and becomes village chief." },
+    { "arc": "Stone Wars", "summary": "Cell phone and Stone Wars against Tsukasa." },
+    { "arc": "Age of Exploration", "summary": "Treasure Island, America, the world." },
+    { "arc": "Moon mission and epilogue", "summary": "Senku reaches the Why-Man; humanity is restored; he starts building a time machine." }
+  ],
+  "shared_canon_events": ["petrification", "stone world", "taiju", "yuzuriha", "tsukasa", "chrome", "kohaku", "gen", "ruri", "suika", "kaseki", "ishigami village", "kingdom of science", "stone wars", "revival fluid", "cola", "ramen", "cell phone", "perseus", "treasure island", "why-man", "byakuya", "moon", "rocket", "time machine"],
+  "characters_in_app": ["097_senku_ishigami"],
+  "verify": ["Senku's age at the epilogue"],
+  "sources": [{ "url": "https://dr-stone.fandom.com/wiki/Dr._Stone_Wiki", "checked": "unchecked" }]
+}

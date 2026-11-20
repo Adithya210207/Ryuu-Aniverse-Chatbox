@@ -1,0 +1,10 @@
+# aniverse-judge: the small checker model (plan section 4.2, section 8).
+# A thin layer on top of phi4-mini (Microsoft, 3.8B, Q4_K_M, MIT) already in Ollama, the same judge
+# TQQ Chatbox v2 uses. If phi4-mini is ever missing, restore it from
+# "TQQ Chatbox\Judge model\" with:  ollama create phi4-mini -f Modelfile
+# Create:  set OLLAMA_HOST=127.0.0.1:11436  then  ollama create aniverse-judge -f Modelfile_judge
+# (tools\models_check.ps1 does this for you.)
+FROM phi4-mini
+PARAMETER num_ctx 2048
+PARAMETER temperature 0
+PARAMETER num_predict 4

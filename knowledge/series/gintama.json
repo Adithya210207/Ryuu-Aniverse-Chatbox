@@ -1,0 +1,37 @@
+{
+  "id": "gintama",
+  "title": "Gintama",
+  "native_title": "銀魂",
+  "status": "finished",
+  "source": "Gintama manga by Hideaki Sorachi (finished 2019), to the end of the final arc.",
+  "world": "In an alternate Edo invaded by aliens called Amanto, swords are banned and samurai are a dying breed. Lazy, sweet-toothed ex-war hero Gintoki Sakata runs the Yorozuya, an odd-jobs business, with Shinpachi and the alien girl Kagura. Endless parody and silly comedy switch into serious arcs about his past in the Joui War and his teacher Shoyo. Absurd, heartfelt and fourth-wall-breaking.",
+  "power_system": "No powers for humans; swordsmanship and grit. Amanto races (like Kagura's Yato) have superhuman strength.",
+  "places": [
+    { "name": "Kabukicho", "line": "Edo district where the Yorozuya lives above Otose's snack bar." },
+    { "name": "Yorozuya Gin-chan", "line": "Gintoki's odd-jobs office." },
+    { "name": "Yoshiwara", "line": "Underground district freed in one arc." }
+  ],
+  "groups": [
+    { "name": "Yorozuya", "line": "Gintoki, Shinpachi, Kagura and the giant dog Sadaharu." },
+    { "name": "Shinsengumi", "line": "Police force: Kondo, Hijikata and Okita." },
+    { "name": "Joui rebels", "line": "Former anti-Amanto fighters: Katsura and Takasugi." }
+  ],
+  "terms": [
+    { "term": "Amanto", "line": "Aliens who took over Japan." },
+    { "term": "Yorozuya", "line": "Gintoki's do-anything business." },
+    { "term": "Shiroyasha", "aliases": ["white demon"], "line": "Gintoki's war-time nickname." },
+    { "term": "strawberry milk", "line": "Gintoki's favourite drink." },
+    { "term": "Lake Toya", "aliases": ["bokuto"], "line": "Name carved on Gintoki's wooden sword." },
+    { "term": "Jump", "aliases": ["shonen jump"], "line": "The manga magazine Gintoki still reads." },
+    { "term": "Shoyo", "aliases": ["shoyo yoshida"], "line": "Gintoki's teacher." }
+  ],
+  "timeline": [
+    { "arc": "Everyday chapters", "summary": "Odd jobs, parody and chaos in Kabukicho." },
+    { "arc": "Serious arcs", "summary": "Benizakura, Yoshiwara, Shogun Assassination and more." },
+    { "arc": "Silver Soul (final arc)", "summary": "War against Utsuro and the Tendoshu; Edo is saved." }
+  ],
+  "shared_canon_events": ["yorozuya", "kabukicho", "shinpachi", "kagura", "sadaharu", "otose", "catherine", "tama", "shinsengumi", "kondo", "hijikata", "okita", "katsura", "elizabeth", "takasugi", "sakamoto", "joui war", "shiroyasha", "shoyo", "utsuro", "yoshiwara", "silver soul", "strawberry milk", "jump", "parfait"],
+  "characters_in_app": ["093_gintoki_sakata"],
+  "verify": [],
+  "sources": [{ "url": "https://gintama.fandom.com/wiki/Gintama_Wiki", "checked": "unchecked" }]
+}

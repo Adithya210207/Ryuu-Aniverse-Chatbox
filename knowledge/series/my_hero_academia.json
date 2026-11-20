@@ -1,0 +1,170 @@
+{
+  "id": "my_hero_academia",
+  "title": "My Hero Academia",
+  "native_title": "僕のヒーローアカデミア",
+  "status": "finished",
+  "source": "My Hero Academia manga by Kohei Horikoshi (ended 2024), including the final war and the epilogue eight years later.",
+  "world": "In a world where about 80% of people have superpowers called Quirks, professional heroes are licensed public servants. Quirkless boy Izuku Midoriya inherits One For All from the Symbol of Peace, All Might, and trains at U.A. High School in Class 1-A. The heroes face the League of Villains, All For One and Tomura Shigaraki, ending in a final war that changes hero society. Hopeful, loud and full of growth.",
+  "power_system": "Quirks are inborn powers that appear around age four. One For All is a stockpiling Quirk passed from user to user; All For One steals and gives Quirks. Heroes need a licence and wear support gear made for their Quirk.",
+  "places": [
+    {
+      "name": "U.A. High School",
+      "line": "The top hero school; Class 1-A is Deku's class."
+    },
+    {
+      "name": "Kamino Ward",
+      "line": "Site of All Might's last battle against All For One."
+    },
+    {
+      "name": "Jaku City",
+      "line": "Site of the Paranormal Liberation War."
+    },
+    {
+      "name": "Tartarus",
+      "line": "Maximum-security prison for villains."
+    }
+  ],
+  "groups": [
+    {
+      "name": "Class 1-A",
+      "line": "Deku, Bakugo, Todoroki and classmates; homeroom teacher Aizawa."
+    },
+    {
+      "name": "League of Villains",
+      "line": "Shigaraki's villain group (Dabi, Toga, Twice, Spinner, Mr. Compress)."
+    },
+    {
+      "name": "Pro Heroes",
+      "line": "Licensed heroes ranked on the Hero Billboard Chart, e.g. Endeavor and Hawks."
+    }
+  ],
+  "terms": [
+    {
+      "term": "Quirk",
+      "aliases": [
+        "quirks",
+        "quirkless"
+      ],
+      "line": "A person's superpower."
+    },
+    {
+      "term": "One For All",
+      "aliases": [
+        "ofa"
+      ],
+      "line": "The passed-down power All Might gave Deku."
+    },
+    {
+      "term": "All For One",
+      "aliases": [
+        "afo"
+      ],
+      "line": "The villain and Quirk that steals other Quirks."
+    },
+    {
+      "term": "Symbol of Peace",
+      "line": "All Might's title as the number one hero."
+    },
+    {
+      "term": "Plus Ultra",
+      "line": "U.A.'s motto: go beyond."
+    },
+    {
+      "term": "Hero name",
+      "aliases": [
+        "hero names"
+      ],
+      "line": "Every hero picks one (Deku, Dynamight, Shoto, Eraser Head)."
+    },
+    {
+      "term": "Decay",
+      "line": "Shigaraki's Quirk: everything he touches with all fingers crumbles."
+    },
+    {
+      "term": "Half-Cold Half-Hot",
+      "line": "Todoroki's Quirk: ice from the right side, fire from the left."
+    },
+    {
+      "term": "Explosion",
+      "line": "Bakugo's Quirk: sweat that explodes from his palms."
+    },
+    {
+      "term": "Erasure",
+      "line": "Aizawa's Quirk: cancels Quirks while he looks at someone."
+    }
+  ],
+  "timeline": [
+    {
+      "arc": "Entrance and USJ",
+      "summary": "Deku enters U.A.; the League attacks the USJ."
+    },
+    {
+      "arc": "Sports Festival",
+      "summary": "Deku vs Todoroki; Bakugo wins."
+    },
+    {
+      "arc": "Kamino",
+      "summary": "Bakugo is kidnapped; All Might defeats All For One and retires."
+    },
+    {
+      "arc": "Overhaul and Paranormal Liberation War",
+      "summary": "Shigaraki awakens; heroes suffer huge losses."
+    },
+    {
+      "arc": "Dark Deku",
+      "summary": "Deku leaves U.A. to fight alone, then returns."
+    },
+    {
+      "arc": "Final War",
+      "summary": "Deku defeats Shigaraki (Tenko); Bakugo is revived and saves All Might, finishing All For One; Dabi survives badly burned."
+    },
+    {
+      "arc": "Epilogue",
+      "summary": "Eight years later Deku, without One For All, teaches at U.A. and returns as a pro hero in a suit from All Might and Class 1-A; Shoto becomes No. 2 hero; Endeavor is retired."
+    }
+  ],
+  "shared_canon_events": [
+    "u.a.",
+    "ua",
+    "class 1-a",
+    "usj",
+    "sports festival",
+    "provisional license",
+    "kamino",
+    "overhaul",
+    "eri",
+    "paranormal liberation war",
+    "jaku",
+    "final war",
+    "league of villains",
+    "all for one",
+    "one for all",
+    "endeavor",
+    "hawks",
+    "dabi",
+    "toga",
+    "uraraka",
+    "iida",
+    "kirishima",
+    "tenko",
+    "plus ultra",
+    "hero billboard"
+  ],
+  "characters_in_app": [
+    "070_katsuki_bakugo",
+    "071_shoto_todoroki",
+    "072_izuku_midoriya",
+    "073_all_might",
+    "074_tomura_shigaraki",
+    "100_shota_aizawa"
+  ],
+  "verify": [
+    "Deku's rank (Wikipedia: No. 4) unconfirmed elsewhere."
+  ],
+  "sources": [
+    {
+      "url": "https://myheroacademia.fandom.com/wiki/My_Hero_Academia_Wiki",
+      "checked": "unchecked"
+    }
+  ]
+}

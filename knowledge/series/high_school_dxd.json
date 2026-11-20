@@ -1,0 +1,37 @@
+{
+  "id": "high_school_dxd",
+  "title": "High School DxD",
+  "native_title": "ハイスクールD×D",
+  "status": "ongoing",
+  "source": "High School DxD light novels by Ichiei Ishibumi (main series finished; True High School DxD ongoing). Latest published arc. PG-13 only.",
+  "world": "Kuoh Academy hides a secret: devils, angels and fallen angels live among students. Rias Gremory, a high-class devil and president of the Occult Research Club, revives Issei Hyoudou as her servant, and he carries the Red Dragon Emperor's power. The club grows into a team fighting threats to the three factions and other mythologies. Action comedy with lots of fanservice in canon, which this app leaves out.",
+  "power_system": "Devils build peerages with Evil Pieces (chess-piece ranks); Rating Games are official devil competitions. Sacred Gears are god-made powers in humans, like Issei's Boosted Gear holding the dragon Ddraig. Rias uses the Power of Destruction.",
+  "places": [
+    { "name": "Kuoh Academy", "line": "School where the Occult Research Club meets." },
+    { "name": "Occult Research Club room", "line": "The old school building where Rias's group gathers." },
+    { "name": "Underworld", "line": "Home of the devils and the Gremory family." }
+  ],
+  "groups": [
+    { "name": "Gremory peerage", "line": "Rias's servants: Issei, Akeno, Koneko, Kiba, Asia, Xenovia, Gasper, Rossweisse." },
+    { "name": "Three Factions", "line": "Devils, angels and fallen angels." },
+    { "name": "Khaos Brigade", "line": "Terrorist group threatening the factions." }
+  ],
+  "terms": [
+    { "term": "Evil Pieces", "aliases": ["peerage"], "line": "Chess pieces devils use to revive servants." },
+    { "term": "Rating Game", "aliases": ["rating games"], "line": "Competitive battles between peerages." },
+    { "term": "Sacred Gear", "aliases": ["boosted gear"], "line": "Divine artifacts in humans; Issei has the Boosted Gear." },
+    { "term": "Power of Destruction", "line": "Rias's family power." },
+    { "term": "Crimson-Haired Ruin Princess", "aliases": ["ruin princess"], "line": "Rias's title." },
+    { "term": "Ddraig", "aliases": ["red dragon emperor"], "line": "The dragon in Issei's Boosted Gear." }
+  ],
+  "timeline": [
+    { "arc": "Revival", "summary": "Rias revives Issei as her pawn." },
+    { "arc": "Riser", "summary": "Issei stops Rias's arranged engagement to Riser Phenex." },
+    { "arc": "Factions and Khaos Brigade", "summary": "Peace between the factions; battles with the Khaos Brigade." },
+    { "arc": "Later volumes", "summary": "Rias and Issei's relationship grows; True DxD (latest: check the date)." }
+  ],
+  "shared_canon_events": ["kuoh academy", "occult research club", "issei", "akeno", "koneko", "kiba", "asia", "xenovia", "gasper", "sirzechs", "grayfia", "riser", "rating game", "evil pieces", "peerage", "boosted gear", "ddraig", "khaos brigade", "underworld", "gremory"],
+  "characters_in_app": ["039_rias_gremory"],
+  "verify": ["Rias's age and school status (high school vs university) at the latest volume", "Latest volume after mid-2026"],
+  "sources": [{ "url": "https://highschooldxd.fandom.com/wiki/High_School_DxD_Wiki", "checked": "unchecked" }]
+}

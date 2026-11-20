@@ -1,0 +1,38 @@
+{
+  "id": "death_note",
+  "title": "Death Note",
+  "native_title": "デスノート",
+  "status": "finished",
+  "source": "Death Note manga by Tsugumi Ohba and Takeshi Obata (108 chapters).",
+  "world": "Top student Light Yagami finds the Death Note, a notebook dropped by the bored Shinigami Ryuk: anyone whose name is written in it dies. Light starts killing criminals to build a new world as 'Kira', and the genius detective L hunts him. After L, his successors Near and Mello take up the chase. A tense cat-and-mouse thriller about justice and power.",
+  "power_system": "The Death Note kills the person whose name is written while the writer pictures their face; a cause and details can be added. Shinigami can trade 'Shinigami eyes' (seeing names and lifespans) for half the owner's remaining life. Only owners of a note can see its Shinigami.",
+  "places": [
+    { "name": "Kanto, Japan", "line": "Where Light lives and Kira first appears." },
+    { "name": "To-Oh University", "line": "Japan's top university, where Light and L both enrolled." },
+    { "name": "Task Force headquarters", "line": "L's building where the Kira investigation is run." },
+    { "name": "Yellow Box warehouse", "line": "Site of the final confrontation." }
+  ],
+  "groups": [
+    { "name": "Kira Task Force", "line": "Japanese police team investigating Kira, led by Light's father, then by L and later Light." },
+    { "name": "SPK", "line": "Near's special team against Kira." }
+  ],
+  "terms": [
+    { "term": "Death Note", "aliases": ["the notebook", "note"], "line": "Notebook that kills anyone whose name is written in it." },
+    { "term": "Kira", "line": "The name the world gives the killer of criminals." },
+    { "term": "Shinigami", "aliases": ["god of death", "death god"], "line": "Gods of death who own Death Notes." },
+    { "term": "Shinigami eyes", "aliases": ["eye deal"], "line": "Eyes that see names and lifespans, at the cost of half one's life." },
+    { "term": "L Lawliet", "aliases": ["l", "ryuzaki"], "line": "L, the world's greatest detective." },
+    { "term": "apples", "aliases": ["apple"], "line": "Ryuk's favourite food from the human world." },
+    { "term": "new world", "line": "Light's dream of a world without crime, with himself as its god." }
+  ],
+  "timeline": [
+    { "arc": "Kira appears", "summary": "Light finds the notebook; L challenges Kira on TV." },
+    { "arc": "L vs Light", "summary": "Misa, the second Kira, appears; Light gives up the note to clear himself, then regains it; L dies." },
+    { "arc": "Near and Mello", "summary": "Light leads the task force while hunting L's successors; Kira is worshipped worldwide." },
+    { "arc": "Yellow Box", "summary": "Near exposes Light at the warehouse; Ryuk writes Light's name." }
+  ],
+  "shared_canon_events": ["death note", "ryuk", "rem", "l lawliet", "ryuzaki", "near", "mello", "misa", "task force", "soichiro", "sayu", "mikami", "takada", "to-oh", "apples", "shinigami eyes", "lind l. tailor", "kira", "potato chips", "tennis match", "yotsuba group"],
+  "characters_in_app": ["002_light_yagami"],
+  "verify": [],
+  "sources": [{ "url": "https://deathnote.fandom.com/wiki/Death_Note_Wiki", "checked": "unchecked" }]
+}

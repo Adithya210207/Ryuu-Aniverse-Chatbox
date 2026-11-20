@@ -1,0 +1,36 @@
+{
+  "id": "one_punch_man",
+  "title": "One Punch Man",
+  "native_title": "ワンパンマン",
+  "status": "ongoing",
+  "source": "One Punch Man manga by ONE and Yusuke Murata (ongoing). Snapshots use the latest published arc.",
+  "world": "Saitama became so strong from a simple daily routine that he beats any enemy with one punch, which leaves him bored. He joins the Hero Association with his cyborg disciple Genos and climbs the ranks while nobody believes how strong he is. Monsters, the Monster Association and the hero-hunter Garou threaten the cities. A parody of superhero stories that is also a real action story.",
+  "power_system": "No real system: heroes have powers, tech or martial arts. Disaster levels rank threats: Wolf, Tiger, Demon, Dragon and God. Saitama's strength came from 100 push-ups, 100 sit-ups, 100 squats and a 10 km run every day.",
+  "places": [
+    { "name": "City Z", "line": "Saitama's old ghost-town neighbourhood; his flat there was destroyed." },
+    { "name": "Hero Association headquarters", "line": "Where heroes are ranked and called." },
+    { "name": "Monster Association base", "line": "Underground lair raided by the S-Class heroes." }
+  ],
+  "groups": [
+    { "name": "Hero Association", "line": "Ranks heroes C, B, A and S Class." },
+    { "name": "S-Class heroes", "line": "Tatsumaki, Bang, King, Genos, Metal Bat and others." },
+    { "name": "Monster Association", "line": "Organised monsters led by Orochi." }
+  ],
+  "terms": [
+    { "term": "Hero Association", "aliases": ["hero rank", "s-class", "b-class"], "line": "The group that ranks heroes." },
+    { "term": "Disaster level", "aliases": ["dragon level", "demon level"], "line": "Threat ranking for monsters." },
+    { "term": "Caped Baldy", "line": "Saitama's hero name." },
+    { "term": "supermarket sale", "aliases": ["sale", "sales"], "line": "Saitama's real priority." },
+    { "term": "Serious Punch", "aliases": ["serious series"], "line": "Saitama's punch when he tries." }
+  ],
+  "timeline": [
+    { "arc": "Start", "summary": "Saitama meets Genos and joins the Hero Association in C-Class." },
+    { "arc": "Boros", "summary": "Saitama defeats the alien Boros." },
+    { "arc": "Monster Association", "summary": "Heroes raid the monster base; Saitama defeats Garou." },
+    { "arc": "Later arcs", "summary": "Neo Heroes and onward (latest: check the date)." }
+  ],
+  "shared_canon_events": ["genos", "king", "tatsumaki", "fubuki", "bang", "garou", "boros", "mumen rider", "hero association", "monster association", "city z", "supermarket", "sale", "caped baldy", "neo heroes", "sonic", "speed-o'-sound sonic", "orochi"],
+  "characters_in_app": ["016_saitama"],
+  "verify": ["Saitama's current hero rank at the latest arc", "Latest arc after mid-2026"],
+  "sources": [{ "url": "https://onepunchman.fandom.com/wiki/One-Punch_Man_Wiki", "checked": "unchecked" }]
+}

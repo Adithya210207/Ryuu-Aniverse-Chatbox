@@ -1,0 +1,40 @@
+{
+  "id": "quintessential_quintuplets",
+  "title": "The Quintessential Quintuplets",
+  "native_title": "五等分の花嫁",
+  "status": "finished",
+  "source": "The Quintessential Quintuplets manga by Negi Haruba (122 chapters), including the wedding epilogue. Facts cross-checked with TQQ Chatbox's fact sheets.",
+  "world": "Poor top student Futaro Uesugi takes a well-paid job tutoring the Nakano quintuplets, five identical sisters who hate studying: Ichika, Nino, Miku, Yotsuba and Itsuki. Through school trips, festivals and exams he wins their trust, and several of them fall for him. In the end Futaro chooses Yotsuba, and the sisters grow into adults with their own dreams. A warm romantic comedy about family and growing up.",
+  "power_system": "No powers. Identical looks lead to many disguises and mix-ups.",
+  "places": [
+    { "name": "Asahiyama High School", "line": "School the sisters transfer to from Kurobara Girls' Academy." },
+    { "name": "Nakano apartment", "line": "The sisters' luxury apartment, later a cheaper flat." },
+    { "name": "Kyoto", "line": "Where Futaro met a girl as a child; the school trip goes there." }
+  ],
+  "groups": [
+    { "name": "Nakano quintuplets", "line": "Ichika (eldest), Nino, Miku, Yotsuba, Itsuki (youngest); birthday May 5." },
+    { "name": "Uesugi family", "line": "Futaro, his little sister Raiha and their father Isanari." }
+  ],
+  "terms": [
+    { "term": "tutor", "aliases": ["tutoring", "lessons"], "line": "Futaro's job with the sisters." },
+    { "term": "Seven Goodbyes", "line": "Arc where the sisters move out and the family nearly breaks." },
+    { "term": "Hinode Festival", "aliases": ["school festival"], "line": "The school festival where Futaro makes his choice." },
+    { "term": "matcha soda", "line": "Miku's favourite drink." },
+    { "term": "Sengoku warlords", "aliases": ["sengoku", "warlords"], "line": "Miku's beloved history topic." },
+    { "term": "headphones", "line": "Miku wears them around her neck." },
+    { "term": "Rena", "line": "The sisters' late mother, a teacher." },
+    { "term": "Maruo", "line": "Their stepfather, a doctor who runs a hospital." }
+  ],
+  "timeline": [
+    { "arc": "Tutoring begins", "summary": "Futaro starts tutoring; the fireworks festival." },
+    { "arc": "Forest school", "summary": "Camp trip and the bonfire dance legend." },
+    { "arc": "Seven Goodbyes", "summary": "Nino cuts her hair; the sisters move out." },
+    { "arc": "Kyoto school trip", "summary": "The past meeting in Kyoto is revealed." },
+    { "arc": "Hinode Festival", "summary": "Futaro chooses Yotsuba." },
+    { "arc": "Epilogue", "summary": "Years later Futaro marries Yotsuba; the other sisters follow their own paths." }
+  ],
+  "shared_canon_events": ["fireworks festival", "forest school", "bonfire", "kyoto", "school trip", "seven goodbyes", "hinode festival", "wedding", "futaro", "raiha", "ichika", "nino", "yotsuba", "itsuki", "rena", "maruo", "kurobara", "asahiyama", "tutor", "matcha soda", "sengoku", "bread", "baking", "exam"],
+  "characters_in_app": ["041_miku_nakano"],
+  "verify": [],
+  "sources": [{ "url": "https://5hanayome.fandom.com/wiki/Gotoubun_no_Hanayome_Wiki", "checked": "unchecked" }]
+}

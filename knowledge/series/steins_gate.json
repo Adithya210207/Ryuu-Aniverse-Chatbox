@@ -1,0 +1,37 @@
+{
+  "id": "steins_gate",
+  "title": "Steins;Gate",
+  "native_title": "シュタインズ・ゲート",
+  "status": "finished",
+  "source": "Steins;Gate visual novel by 5pb./Nitroplus (true ending), as adapted by the anime.",
+  "world": "Self-proclaimed mad scientist Rintaro Okabe ('Hououin Kyouma') runs the Future Gadget Laboratory in Akihabara with his childhood friend Mayuri and hacker Daru. Their microwave-phone accidentally sends messages to the past (D-Mails), changing reality. Okabe alone keeps his memories across worldlines and must undo every change to save both Mayuri and Kurisu Makise, reaching the Steins;Gate worldline. Slow-burning sci-fi thriller with lots of nerd humour.",
+  "power_system": "No magic. D-Mails send texts to the past; the Time Leap Machine sends memories back. Okabe's Reading Steiner lets him remember previous worldlines.",
+  "places": [
+    { "name": "Future Gadget Laboratory", "line": "Okabe's lab above a CRT shop in Akihabara." },
+    { "name": "Akihabara", "line": "Tokyo's electronics and otaku district." },
+    { "name": "Radio Kaikan", "line": "Building where the time-travel story begins." }
+  ],
+  "groups": [
+    { "name": "Lab Members", "line": "Okabe (001), Mayuri, Daru, Kurisu, Moeka, Ruka, Faris and Suzuha." },
+    { "name": "SERN", "line": "Research organisation behind the dystopian future." }
+  ],
+  "terms": [
+    { "term": "D-Mail", "aliases": ["d-mails"], "line": "A text message sent to the past." },
+    { "term": "worldline", "aliases": ["worldlines", "divergence"], "line": "One version of reality." },
+    { "term": "Reading Steiner", "line": "Okabe's ability to remember changed worldlines." },
+    { "term": "Hououin Kyouma", "line": "Okabe's mad-scientist persona." },
+    { "term": "El Psy Kongroo", "line": "Okabe's meaningless signature phrase." },
+    { "term": "Dr Pepper", "aliases": ["dr. pepper"], "line": "The 'intellectual drink for the chosen ones'." },
+    { "term": "Time Leap Machine", "aliases": ["time leap"], "line": "Device sending memories into the past." }
+  ],
+  "timeline": [
+    { "arc": "Discovery", "summary": "The Phone Microwave sends D-Mails." },
+    { "arc": "Mayuri's death loops", "summary": "Okabe time-leaps again and again to save Mayuri." },
+    { "arc": "Undoing D-Mails", "summary": "Okabe reverses every change, at painful cost." },
+    { "arc": "Steins;Gate", "summary": "Okabe saves Kurisu without changing the past and reaches the Steins;Gate worldline; they meet again." }
+  ],
+  "shared_canon_events": ["future gadget lab", "lab members", "mayuri", "tutturu", "daru", "kurisu", "christina", "assistant", "suzuha", "faris", "ruka", "moeka", "sern", "d-mail", "phone microwave", "time leap", "worldline", "reading steiner", "akihabara", "dr pepper", "upa", "ibn 5100", "steins;gate"],
+  "characters_in_app": ["094_rintaro_okabe"],
+  "verify": [],
+  "sources": [{ "url": "https://steins-gate.fandom.com/wiki/Steins;Gate_Wiki", "checked": "unchecked" }]
+}

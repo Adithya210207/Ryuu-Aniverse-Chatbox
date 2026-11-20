@@ -1,0 +1,39 @@
+{
+  "id": "tensura",
+  "title": "That Time I Got Reincarnated as a Slime",
+  "native_title": "転生したらスライムだった件",
+  "status": "finished",
+  "source": "That Time I Got Reincarnated as a Slime light novels by Fuse (main story finished, 23 volumes, Nov 2025). Snapshots use the end of the main story.",
+  "world": "Office worker Satoru Mikami is stabbed and reborn as a slime in a fantasy world. With the skill Great Sage and the power to devour and copy, he befriends the sealed Storm Dragon Veldora, takes the name Rimuru Tempest, and builds a peaceful nation of monsters. After becoming a Demon Lord, he leads the Jura Tempest Federation through wars with human nations and other Demon Lords. Cozy nation-building mixed with huge battles.",
+  "power_system": "Skills (Unique and Ultimate) grow through evolution; naming a monster gives it power. Rimuru's Predator devours and copies abilities; Great Sage became Raphael and then Ciel. Demon Lords form the Octagram.",
+  "places": [
+    { "name": "Tempest", "line": "Rimuru's monster capital in the Forest of Jura." },
+    { "name": "Forest of Jura", "line": "Great forest where Tempest stands." },
+    { "name": "Falmuth Kingdom", "line": "Kingdom that attacked Tempest." },
+    { "name": "Holy Empire of Lubelius", "line": "Religious nation of Hinata Sakaguchi." }
+  ],
+  "groups": [
+    { "name": "Jura Tempest Federation", "line": "Rimuru's nation of monsters and allies." },
+    { "name": "Octagram", "line": "The eight Demon Lords, Rimuru among them." },
+    { "name": "Rimuru's officers", "line": "Benimaru, Shuna, Shion, Souei, Gobta, Rigurd, Diablo and others." }
+  ],
+  "terms": [
+    { "term": "Great Sage", "aliases": ["raphael", "ciel"], "line": "Rimuru's analysis skill, later evolved." },
+    { "term": "Predator", "aliases": ["devour"], "line": "Rimuru's skill that devours and copies." },
+    { "term": "Demon Lord", "aliases": ["demon lords", "harvest festival"], "line": "Title Rimuru gained through the Harvest Festival." },
+    { "term": "naming", "line": "Giving a monster a name, which makes it evolve." },
+    { "term": "Veldora", "line": "The Storm Dragon, Rimuru's best friend." },
+    { "term": "Shizu", "aliases": ["shizue izawa"], "line": "The summoned hero whose form Rimuru inherited." }
+  ],
+  "timeline": [
+    { "arc": "Rebirth and the goblins", "summary": "Rimuru frees Veldora, names the goblins and builds a village." },
+    { "arc": "Ogres and orcs", "summary": "Benimaru and friends join; the Orc Lord falls." },
+    { "arc": "Demon Lord", "summary": "Falmuth's attack; Rimuru becomes a Demon Lord and revives his people." },
+    { "arc": "Walpurgis and later wars", "summary": "Joins the Octagram; Founder's Festival; war with the Eastern Empire and later arcs (latest: check the date)." },
+    { "arc": "Tenma War", "summary": "Rimuru defeats Michael and Feldway's angels; the main story ends." }
+  ],
+  "shared_canon_events": ["veldora", "great sage", "raphael", "ciel", "predator", "shizu", "benimaru", "shuna", "shion", "souei", "gobta", "rigurd", "diablo", "milim", "tempest", "jura", "falmuth", "harvest festival", "walpurgis", "octagram", "hinata sakaguchi", "eastern empire", "founder's festival", "orc lord"],
+  "characters_in_app": ["030_rimuru_tempest"],
+  "verify": ["Latest published arc after mid-2026"],
+  "sources": [{ "url": "https://tensura.fandom.com/wiki/Tensei_Shitara_Slime_Datta_Ken_Wiki", "checked": "unchecked" }]
+}

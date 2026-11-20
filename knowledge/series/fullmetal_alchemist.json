@@ -1,0 +1,41 @@
+{
+  "id": "fullmetal_alchemist",
+  "title": "Fullmetal Alchemist: Brotherhood",
+  "native_title": "鋼の錬金術師",
+  "status": "finished",
+  "source": "Fullmetal Alchemist manga by Hiromu Arakawa (108 chapters), as adapted by Brotherhood, including the epilogue.",
+  "world": "In the military nation of Amestris, brothers Edward and Alphonse Elric try to bring their dead mother back with alchemy. Ed loses his left leg and Al his whole body; Ed gives his right arm to bind Al's soul to a suit of armour. Ed becomes the State Alchemist called the Fullmetal Alchemist and the brothers search for the Philosopher's Stone, uncovering a conspiracy by the Homunculi and Father. Heart, humour and big ideas about sacrifice.",
+  "power_system": "Alchemy follows Equivalent Exchange: to gain something, something of equal value must be lost. Alchemists draw transmutation circles; those who have seen the Truth can clap their hands instead. Human transmutation is forbidden. Alkahestry is the eastern country Xing's version. Automail is mechanical prosthetics.",
+  "places": [
+    { "name": "Amestris", "line": "The military nation where the story happens." },
+    { "name": "Resembool", "line": "The brothers' home village, where Winry lives." },
+    { "name": "Central City", "line": "Capital and military headquarters." },
+    { "name": "Xing", "line": "Eastern country of alkahestry; Ling and Mei come from there." }
+  ],
+  "groups": [
+    { "name": "State Alchemists", "line": "Military alchemists, also called dogs of the military." },
+    { "name": "Homunculi", "line": "Father's artificial humans named after the seven sins." },
+    { "name": "Mustang's team", "line": "Roy Mustang, Riza Hawkeye and their loyal officers." }
+  ],
+  "terms": [
+    { "term": "Equivalent Exchange", "line": "Alchemy's basic law." },
+    { "term": "Philosopher's Stone", "line": "A stone made of human souls that breaks the law of exchange." },
+    { "term": "automail", "line": "Mechanical limbs; Winry makes Ed's." },
+    { "term": "Gate of Truth", "aliases": ["truth", "the gate"], "line": "What alchemists see after a human transmutation." },
+    { "term": "Homunculus", "aliases": ["homunculi"], "line": "Artificial human." },
+    { "term": "Promised Day", "line": "The day of Father's final plan and the last battle." },
+    { "term": "Fullmetal", "line": "Ed's State Alchemist title." },
+    { "term": "alkahestry", "line": "Xingese alchemy used for healing; Al studies it." }
+  ],
+  "timeline": [
+    { "arc": "The failed transmutation", "summary": "The brothers lose their bodies trying to revive their mother Trisha." },
+    { "arc": "Search for the Stone", "summary": "Ed becomes a State Alchemist; Lab 5; Maes Hughes dies." },
+    { "arc": "Briggs and the Homunculi", "summary": "The plot of Father and the government is uncovered." },
+    { "arc": "Promised Day", "summary": "Father is defeated; Ed trades his alchemy to bring back Al's body." },
+    { "arc": "Epilogue", "summary": "Two years later Ed travels west and Al east to learn alkahestry; Ed and Winry later marry." }
+  ],
+  "shared_canon_events": ["resembool", "winry", "pinako", "trisha", "hohenheim", "mustang", "hawkeye", "hughes", "armstrong", "scar", "lab 5", "briggs", "olivier", "ling", "mei", "may chang", "greed", "envy", "father", "promised day", "philosopher's stone", "gate of truth", "teacher", "izumi", "nina", "cats"],
+  "characters_in_app": ["095_edward_elric", "096_alphonse_elric"],
+  "verify": [],
+  "sources": [{ "url": "https://fma.fandom.com/wiki/Fullmetal_Alchemist_Wiki", "checked": "unchecked" }]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "tomodachi_game",
+  "title": "Tomodachi Game",
+  "native_title": "トモダチゲーム",
+  "status": "ongoing",
+  "source": "Tomodachi Game manga by Mikoto Yamaguchi and Yuki Sato (ongoing). Snapshots use the latest published arc.",
+  "world": "High-school student Yuuichi Katagiri and his four close friends are kidnapped into the 'Tomodachi Game' to pay off a 20 million yen debt one of them supposedly owes. The games test friendship through lies, votes and betrayal. Yuuichi, who says friends matter more than money, turns out to be a ruthless strategist willing to play dirty to protect them and to break the game's organisers. A twisty psychological death-game story about trust.",
+  "power_system": "No powers. The games are run by an organisation with a mascot host (Manabu-kun); debts, votes and secrets are the weapons.",
+  "places": [
+    { "name": "Yuuichi's high school", "line": "Where the five friends are classmates." },
+    { "name": "Game venues", "line": "Rooms, buildings and mountain settings where each game is played." }
+  ],
+  "groups": [
+    { "name": "Yuuichi's friends", "line": "Shiho Sawaragi, Tenji Mikasa, Makoto Shibe and Yutori Kokorogi." },
+    { "name": "Game organisers", "line": "The people behind the Tomodachi Game and its host Manabu-kun." }
+  ],
+  "terms": [
+    { "term": "Tomodachi Game", "aliases": ["friend game"], "line": "The game that tests a group of friends over a debt." },
+    { "term": "20 million yen", "aliases": ["debt"], "line": "The debt the friends must pay off." },
+    { "term": "Manabu-kun", "aliases": ["manabu"], "line": "The game's mascot host." },
+    { "term": "traitor", "line": "The friend suspected of dragging everyone into the game." }
+  ],
+  "timeline": [
+    { "arc": "First games", "summary": "The five friends play the opening games and suspect a traitor among them." },
+    { "arc": "Later games", "summary": "Yuuichi's true ruthless side shows as he fights the organisers (latest arcs: check the date)." }
+  ],
+  "shared_canon_events": ["tomodachi game", "manabu-kun", "20 million yen", "shiho", "tenji", "makoto", "yutori", "kokorogi", "sawaragi", "mikasa", "shibe", "debt", "traitor", "school trip money"],
+  "characters_in_app": ["008_yuuichi_katagiri"],
+  "verify": ["Names and order of the games", "Yuuichi's backstory details", "Latest arc after mid-2026", "Whether the 'school trip money' theft is correct as the opening incident"],
+  "sources": [{ "url": "https://tomodachi-game.fandom.com/wiki/Tomodachi_Game_Wiki", "checked": "unchecked" }]
+}

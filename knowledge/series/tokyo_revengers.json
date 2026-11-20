@@ -1,0 +1,41 @@
+{
+  "id": "tokyo_revengers",
+  "title": "Tokyo Revengers",
+  "native_title": "東京卍リベンジャーズ",
+  "status": "finished",
+  "source": "Tokyo Revengers manga by Ken Wakui (278 chapters, ended 2022), to the final happy timeline.",
+  "world": "Down-on-his-luck Takemichi Hanagaki learns his middle-school girlfriend Hinata was killed in a gang war. He discovers he can leap back twelve years and joins the Tokyo Manji Gang (Toman), led by the unbeatable Mikey and his vice-president Draken, to change the future. Every leap fixes one tragedy and creates another, until a final leap lets him save everyone. Delinquent gang fights with a big heart.",
+  "power_system": "No powers except Takemichi's time leaps, triggered by a handshake with Naoto Tachibana (later his own will). Fights are street brawls; Mikey's kicks are legendary.",
+  "places": [
+    { "name": "Shibuya and Musashi Shrine", "line": "Toman's territory and meeting place." },
+    { "name": "Mikey's garage", "line": "Where Mikey's late brother Shinichiro's bikes are kept." }
+  ],
+  "groups": [
+    { "name": "Tokyo Manji Gang (Toman)", "line": "Mikey's gang, founded to protect each other." },
+    { "name": "Valhalla", "line": "Rival gang in the Bloody Halloween fight." },
+    { "name": "Black Dragon", "line": "Gang once led by Shinichiro." },
+    { "name": "Tenjiku", "line": "Izana Kurokawa's gang." }
+  ],
+  "terms": [
+    { "term": "time leap", "aliases": ["leap", "leaping"], "line": "Takemichi's power to return to the past." },
+    { "term": "Toman", "aliases": ["tokyo manji gang"], "line": "Mikey's gang." },
+    { "term": "Invincible Mikey", "line": "Mikey's nickname." },
+    { "term": "tokkofuku", "line": "Long gang coat." },
+    { "term": "Bloody Halloween", "line": "Toman vs Valhalla; Baji dies." },
+    { "term": "Black Impulse", "aliases": ["dark impulse"], "line": "The darkness inside Mikey." },
+    { "term": "dorayaki", "line": "Mikey's favourite snack." },
+    { "term": "Hero", "aliases": ["crybaby hero"], "line": "What Takemichi becomes for Toman." }
+  ],
+  "timeline": [
+    { "arc": "First leap", "summary": "Takemichi meets Mikey and Draken." },
+    { "arc": "Moebius and 8/3", "summary": "Takemichi saves Draken from being stabbed." },
+    { "arc": "Bloody Halloween", "summary": "Baji dies; Kazutora is arrested." },
+    { "arc": "Black Dragon and Tenjiku", "summary": "Emma and Izana die." },
+    { "arc": "Three Deities and future arcs", "summary": "Mikey's darkness grows." },
+    { "arc": "Final leap", "summary": "Mikey and Takemichi leap back to 1998 together; everyone is saved, Shinichiro included; Takemichi marries Hinata." }
+  ],
+  "shared_canon_events": ["toman", "time leap", "hinata", "naoto", "baji", "chifuyu", "kazutora", "emma", "izana", "shinichiro", "hanma", "kisaki", "mitsuya", "pah-chin", "bloody halloween", "8/3", "valhalla", "black dragon", "tenjiku", "musashi shrine", "dorayaki", "bike", "cb250t"],
+  "characters_in_app": ["084_manjiro_sano", "085_ken_ryuguji", "086_takemichi_hanagaki"],
+  "verify": ["What Mikey and Draken do as adults in the final timeline (e.g. bike shop, racing)"],
+  "sources": [{ "url": "https://tokyorevengers.fandom.com/wiki/Tokyo_Revengers_Wiki", "checked": "unchecked" }]
+}

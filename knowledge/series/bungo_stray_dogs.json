@@ -1,0 +1,42 @@
+{
+  "id": "bungo_stray_dogs",
+  "title": "Bungo Stray Dogs",
+  "native_title": "文豪ストレイドッグス",
+  "status": "ongoing",
+  "source": "Bungo Stray Dogs manga by Kafka Asagiri and Sango Harukawa (ongoing). Snapshots use the latest published arc.",
+  "world": "In a stylised Yokohama, people with supernatural Abilities named after famous literary works work for rival organisations. The Armed Detective Agency handles dangerous cases between day and night, while the Port Mafia rules the underworld. Former mafia executive Osamu Dazai now works for the Agency and mentors Atsushi Nakajima. Clashes with the Guild, the Rats in the House of the Dead and the Decay of Angels threaten the city. Stylish, witty and dramatic.",
+  "power_system": "Ability users each have one Ability named after a literary work. Dazai's 'No Longer Human' cancels any Ability he touches. Atsushi turns into a white tiger ('Beast Beneath the Moonlight'); Chuuya controls gravity ('For the Tainted Sorrow').",
+  "places": [
+    { "name": "Yokohama", "line": "The port city where the story happens." },
+    { "name": "Armed Detective Agency office", "line": "Above the café Uzumaki." },
+    { "name": "Port Mafia headquarters", "line": "Towers where Mori Ogai leads the mafia." },
+    { "name": "Meursault", "line": "European prison where Dazai and Fyodor were held." }
+  ],
+  "groups": [
+    { "name": "Armed Detective Agency", "line": "Ability users solving dangerous cases: Fukuzawa, Ranpo, Kunikida, Dazai, Atsushi, Yosano, Kenji, Tanizaki, Kyoka." },
+    { "name": "Port Mafia", "line": "Yokohama's mafia led by Mori; Chuuya, Akutagawa, Kouyou." },
+    { "name": "The Guild", "line": "American Ability organisation led by Fitzgerald." },
+    { "name": "Rats in the House of the Dead", "line": "Fyodor Dostoevsky's group." },
+    { "name": "Decay of Angels", "line": "Terrorist group framing the Agency." },
+    { "name": "Hunting Dogs", "line": "Elite government Ability unit." }
+  ],
+  "terms": [
+    { "term": "Ability", "aliases": ["abilities", "gifted"], "line": "A supernatural power named after a literary work." },
+    { "term": "No Longer Human", "line": "Dazai's Ability that nullifies Abilities by touch." },
+    { "term": "Soukoku", "aliases": ["double black"], "line": "Dazai and Chuuya's partnership." },
+    { "term": "Shin Soukoku", "aliases": ["new double black"], "line": "Atsushi and Akutagawa's partnership." },
+    { "term": "The Book", "line": "A page that can rewrite reality." },
+    { "term": "Dark Era", "line": "Dazai's past in the mafia and his friend Oda Sakunosuke's death." }
+  ],
+  "timeline": [
+    { "arc": "Atsushi joins", "summary": "Dazai recruits Atsushi into the Agency." },
+    { "arc": "The Guild", "summary": "The Agency and Port Mafia team up against the Guild." },
+    { "arc": "Dark Era (past)", "summary": "Dazai leaves the mafia after Odasaku's death." },
+    { "arc": "Cannibalism", "summary": "Fyodor sets the Agency and mafia leaders against each other." },
+    { "arc": "Decay of Angels and later", "summary": "The Agency is framed; Dazai is imprisoned in Meursault; later arcs (latest: check the date)." }
+  ],
+  "shared_canon_events": ["armed detective agency", "port mafia", "yokohama", "atsushi", "kunikida", "ranpo", "chuuya", "akutagawa", "mori", "fukuzawa", "odasaku", "oda sakunosuke", "the guild", "fitzgerald", "fyodor", "dostoevsky", "decay of angels", "hunting dogs", "fukuchi", "meursault", "cannibalism", "soukoku", "uzumaki café", "crab"],
+  "characters_in_app": ["007_osamu_dazai"],
+  "verify": ["Latest published arc after mid-2026 and Dazai's situation in it"],
+  "sources": [{ "url": "https://bungostraydogs.fandom.com/wiki/Bungou_Stray_Dogs_Wiki", "checked": "unchecked" }]
+}

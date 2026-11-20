@@ -1,0 +1,43 @@
+{
+  "id": "chainsaw_man",
+  "title": "Chainsaw Man",
+  "native_title": "チェンソーマン",
+  "status": "finished",
+  "source": "Chainsaw Man manga by Tatsuki Fujimoto. Part 1 (Public Safety saga) is finished; Part 2 (Academy saga) is used only for Denji's latest arc.",
+  "world": "In a Japan where Devils are born from human fears, poor teenager Denji merges with his chainsaw devil-dog Pochita and becomes Chainsaw Man. He is recruited by Makima into Public Safety Devil Hunters, living with Aki and the Blood Fiend Power. Part 1 builds a strange found family and ends in tragedy when Makima's true nature as the Control Devil is revealed. Part 2 follows Denji as a high-school student. Chaotic, violent, funny and sad.",
+  "power_system": "Devils are named after fears; the more feared, the stronger. Humans make contracts with devils, paying with things like lifespan or body parts. Fiends are devils in human corpses (like Power); Hybrids like Denji and Reze can transform. Chainsaw Man can erase a devil from existence by eating it.",
+  "places": [
+    { "name": "Tokyo Public Safety", "line": "Government devil-hunting office where Makima leads Special Division 4." },
+    { "name": "Aki's apartment", "line": "Where Denji, Power and Aki live together." },
+    { "name": "The café", "line": "Where Denji meets Reze during summer rain." }
+  ],
+  "groups": [
+    { "name": "Public Safety Devil Hunters", "line": "Government devil hunters." },
+    { "name": "Special Division 4", "line": "Makima's experimental squad of hybrids and fiends." }
+  ],
+  "terms": [
+    { "term": "Devil", "aliases": ["devils"], "line": "Being born from a human fear." },
+    { "term": "Fiend", "aliases": ["fiends"], "line": "A devil possessing a human corpse; Power is the Blood Fiend." },
+    { "term": "Hybrid", "line": "A human fused with a devil heart, like Denji and Reze." },
+    { "term": "contract", "aliases": ["contracts"], "line": "Deal between a human and a devil, paid with a price." },
+    { "term": "Pochita", "line": "Denji's chainsaw devil dog, now his heart." },
+    { "term": "Control Devil", "line": "Makima's hidden identity." },
+    { "term": "Gun Devil", "line": "The devil that killed Aki's family." },
+    { "term": "Bomb Devil", "aliases": ["bomb girl"], "line": "Reze's hybrid form." },
+    { "term": "Fox Devil", "line": "Devil Aki contracts with." },
+    { "term": "Curse Devil", "line": "Devil Aki contracts with, at the cost of his lifespan." }
+  ],
+  "timeline": [
+    { "arc": "Introduction", "summary": "Denji becomes Chainsaw Man and joins Public Safety." },
+    { "arc": "Eternity Devil", "summary": "Trapped in a hotel; the team bonds." },
+    { "arc": "Katana Man", "summary": "Fights the Katana Man." },
+    { "arc": "Bomb Girl (Reze)", "summary": "Denji falls for Reze, a Soviet hybrid; Makima stops her." },
+    { "arc": "International Assassins and Gun Devil", "summary": "Aki becomes the Gun Fiend; Makima's plan unfolds; Power is killed." },
+    { "arc": "Control Devil", "summary": "Denji defeats Makima." },
+    { "arc": "Part 2", "summary": "Denji in high school with Nayuta; Asa Mitaka and the War Devil Yoru; the Chainsaw Man Church, Fami (really the Death Devil) and Barem; Pochita erases himself and Denji wakes in a new world where Power is alive (ended 25 March 2026)." }
+  ],
+  "shared_canon_events": ["public safety", "devil hunter", "pochita", "makima", "aki", "power", "denji", "himeno", "kobeni", "eternity devil", "katana man", "reze", "bomb devil", "gun devil", "meowy", "bat devil", "nayuta", "asa mitaka", "yoru", "war devil"],
+  "characters_in_app": ["005_makima", "058_denji", "059_power", "060_aki_hayakawa", "061_reze"],
+  "verify": [],
+  "sources": [{ "url": "https://chainsaw-man.fandom.com/wiki/Chainsaw_Man_Wiki", "checked": "unchecked" }]
+}

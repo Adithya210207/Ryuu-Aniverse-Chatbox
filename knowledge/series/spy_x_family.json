@@ -1,0 +1,148 @@
+{
+  "id": "spy_x_family",
+  "title": "Spy × Family",
+  "native_title": "SPY×FAMILY",
+  "status": "ongoing",
+  "source": "Spy × Family manga by Tatsuya Endo (ongoing). Snapshots use the latest published arc.",
+  "world": "Cold-war style rivals Westalis and Ostania keep a fragile peace. Westalis's top spy, codename Twilight, becomes Loid Forger and builds a fake family to get close to politician Donovan Desmond through his son at the elite Eden Academy. He adopts Anya, who secretly reads minds, and marries Yor, who is secretly the assassin Thorn Princess. None of them knows the others' secrets except Anya. A warm, funny family comedy with spy action.",
+  "power_system": "No magic. Anya can read minds (from a secret experiment); the family dog Bond can see the future. Everything else is spy craft and Yor's superhuman fighting.",
+  "places": [
+    {
+      "name": "Berlint",
+      "line": "Ostania's capital, where the Forgers live."
+    },
+    {
+      "name": "Eden Academy",
+      "line": "Elite school where Anya and Damian study; Stella stars and Tonitrus bolts mark good and bad behaviour."
+    },
+    {
+      "name": "Berlint City Hall",
+      "line": "Where Yor works as a clerk."
+    },
+    {
+      "name": "Berlint General Hospital",
+      "line": "Where Loid works as a psychiatrist."
+    }
+  ],
+  "groups": [
+    {
+      "name": "WISE",
+      "line": "Westalis intelligence agency Loid works for."
+    },
+    {
+      "name": "Garden",
+      "line": "Secret assassin group Yor works for."
+    },
+    {
+      "name": "State Security Service (SSS)",
+      "line": "Ostania's secret police; Yor's brother Yuri works there."
+    },
+    {
+      "name": "Forger family",
+      "line": "Loid, Yor, Anya and the dog Bond."
+    }
+  ],
+  "terms": [
+    {
+      "term": "Operation Strix",
+      "aliases": [
+        "strix"
+      ],
+      "line": "Twilight's mission to reach Donovan Desmond through Eden Academy."
+    },
+    {
+      "term": "Twilight",
+      "line": "Loid's spy codename."
+    },
+    {
+      "term": "Thorn Princess",
+      "line": "Yor's assassin codename."
+    },
+    {
+      "term": "Stella star",
+      "aliases": [
+        "stella",
+        "stars"
+      ],
+      "line": "Award at Eden; eight make an Imperial Scholar."
+    },
+    {
+      "term": "Tonitrus bolt",
+      "aliases": [
+        "tonitrus"
+      ],
+      "line": "Punishment mark at Eden; eight mean expulsion."
+    },
+    {
+      "term": "Imperial Scholar",
+      "line": "Elite Eden student allowed into Imperial Scholar gatherings."
+    },
+    {
+      "term": "Bond",
+      "line": "The Forgers' big dog who can see the future."
+    },
+    {
+      "term": "peanuts",
+      "line": "Anya's favourite food."
+    }
+  ],
+  "timeline": [
+    {
+      "arc": "Family formed",
+      "summary": "Loid adopts Anya and marries Yor; Anya passes the Eden interview."
+    },
+    {
+      "arc": "Eden Academy",
+      "summary": "Anya meets Damian and Becky; first Stella and Tonitrus."
+    },
+    {
+      "arc": "Bond and the bomb plot",
+      "summary": "The family adopts Bond."
+    },
+    {
+      "arc": "Cruise and later arcs",
+      "summary": "Yor's cruise mission; school events and spy missions (latest arcs: check the date)."
+    },
+    {
+      "arc": "Dates and the hospital arc",
+      "summary": "Yor realises she loves Loid; TV-studio hijacking; Loid collapses and is hospitalised; Fiona spots Donovan and ex-SSS director Surjay at the hospital (vol. 18 and Missions 138-143+, Nov 2026)."
+    }
+  ],
+  "shared_canon_events": [
+    "operation strix",
+    "eden academy",
+    "stella",
+    "tonitrus",
+    "imperial scholar",
+    "bond",
+    "becky",
+    "yuri",
+    "franky",
+    "sylvia",
+    "handler",
+    "donovan desmond",
+    "cruise",
+    "interview",
+    "garden",
+    "wise",
+    "peanuts",
+    "spy wars",
+    "dodgeball"
+  ],
+  "characters_in_app": [
+    "033_yor_forger",
+    "062_anya_forger",
+    "063_loid_forger",
+    "064_damian_desmond"
+  ],
+  "verify": [
+    "Latest arc: Missions 138-143+ after vol. 18 (4 Nov 2026), the hospital arc with Fiona, Surjay and Donovan (confirmed).",
+    "Anya's Stella/Tonitrus count: Wikipedia says 4 Stella and 3 Tonitrus but contradicts itself; do not state a number in chat."
+  ],
+  "sources": [
+    {
+      "url": "https://spy-x-family.fandom.com/wiki/Spy_x_Family_Wiki",
+      "checked": "unchecked"
+    }
+  ]
+}

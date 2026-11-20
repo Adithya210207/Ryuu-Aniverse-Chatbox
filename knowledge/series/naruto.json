@@ -1,0 +1,55 @@
+{
+  "id": "naruto",
+  "title": "Naruto",
+  "native_title": "NARUTO -ナルト-",
+  "status": "finished",
+  "source": "Naruto manga by Masashi Kishimoto (700 chapters), up to the chapter 700 epilogue. Boruto is not used.",
+  "world": "A world of hidden ninja villages in the Five Great Nations, each led by a Kage. The story follows Naruto Uzumaki of the Hidden Leaf Village from outcast to Hokage, through rivalries, the criminal group Akatsuki and the Fourth Great Ninja War. It mixes training-and-friendship shonen energy with cycles of hatred, war and sacrifice. The epilogue shows a peaceful era with Naruto as the Seventh Hokage.",
+  "power_system": "Ninja mould chakra (body + spirit energy) into techniques (jutsu) with hand signs: ninjutsu, genjutsu and taijutsu. Kekkei genkai are inherited abilities, such as the Uchiha Sharingan (and Mangekyo Sharingan), the Hyuga Byakugan and the Rinnegan. Nine tailed beasts (Bijuu) are sealed inside people called jinchuriki; Naruto holds the Nine-Tails, Kurama.",
+  "places": [
+    { "name": "Hidden Leaf Village (Konoha)", "line": "Naruto's home in the Land of Fire, with the Hokage faces carved into the cliff." },
+    { "name": "Hidden Rain Village (Amegakure)", "line": "Rainy village in a small war-torn nation, Pain's base." },
+    { "name": "Hidden Sand Village (Sunagakure)", "line": "Desert village of the Land of Wind, Gaara's home." },
+    { "name": "Ichiraku Ramen", "line": "Naruto's favourite ramen stand in the Leaf." },
+    { "name": "Valley of the End", "line": "Waterfall with statues of Hashirama and Madara where Naruto and Sasuke fought." },
+    { "name": "Mount Myoboku", "line": "Home of the sage toads who trained Jiraiya and Naruto." }
+  ],
+  "groups": [
+    { "name": "Team 7", "line": "Naruto, Sasuke and Sakura under Kakashi." },
+    { "name": "Akatsuki", "line": "Group of rogue ninja hunting tailed beasts, led in name by Pain." },
+    { "name": "Uchiha clan", "line": "Clan of the Sharingan; wiped out by Itachi except for Sasuke." },
+    { "name": "Hyuga clan", "line": "Leaf clan of the Byakugan; Hinata's family." },
+    { "name": "Allied Shinobi Forces", "line": "All five great villages fighting together in the Fourth Great Ninja War." },
+    { "name": "Team Taka", "line": "Sasuke's team: Suigetsu, Karin and Jugo." }
+  ],
+  "terms": [
+    { "term": "chakra", "line": "The energy ninja use for every jutsu." },
+    { "term": "Hokage", "aliases": ["kage"], "line": "Leader of the Hidden Leaf Village. Naruto becomes the Seventh." },
+    { "term": "Sharingan", "aliases": ["mangekyo"], "line": "The Uchiha eye that copies and sees through jutsu; the Mangekyo is its stronger form." },
+    { "term": "Rinnegan", "line": "Legendary ripple-pattern eye held by Nagato, Madara and later Sasuke." },
+    { "term": "Byakugan", "line": "The Hyuga eye that sees chakra and nearly all around." },
+    { "term": "Rasengan", "line": "Spinning ball of chakra made by Minato, taught to Naruto by Jiraiya." },
+    { "term": "Chidori", "aliases": ["lightning blade", "raikiri"], "line": "Kakashi's lightning technique, also used by Sasuke." },
+    { "term": "Shadow Clone Jutsu", "aliases": ["shadow clone"], "line": "Naruto's signature: solid copies of himself." },
+    { "term": "Kurama", "aliases": ["nine-tails", "nine tails", "kyubi"], "line": "The Nine-Tailed Fox sealed in Naruto; later his partner." },
+    { "term": "jinchuriki", "line": "A person with a tailed beast sealed inside them." },
+    { "term": "Sage Mode", "aliases": ["senjutsu"], "line": "Using nature energy; Naruto learned it from the toads." },
+    { "term": "Edo Tensei", "aliases": ["reanimation", "impure world reincarnation"], "line": "Forbidden jutsu that brings the dead back as controlled bodies." },
+    { "term": "Infinite Tsukuyomi", "line": "The giant genjutsu Madara wanted to cast on the whole world." },
+    { "term": "Will of Fire", "line": "The Leaf's belief that the village is one family to protect." }
+  ],
+  "timeline": [
+    { "arc": "Part I", "summary": "Naruto becomes a genin, joins Team 7, the Chunin Exams, Orochimaru attacks the Leaf, the Third Hokage dies, Sasuke leaves for Orochimaru." },
+    { "arc": "Shippuden start", "summary": "Naruto returns after training with Jiraiya; Akatsuki captures Gaara; Asuma dies, Shikamaru avenges him." },
+    { "arc": "Itachi and Jiraiya", "summary": "Jiraiya dies fighting Pain; Sasuke kills Itachi and learns the truth about the Uchiha." },
+    { "arc": "Pain's Assault", "summary": "Pain destroys the Leaf; Naruto defeats him in Sage Mode; Nagato revives the villagers and dies." },
+    { "arc": "Five Kage Summit", "summary": "Tobi declares the Fourth Great Ninja War." },
+    { "arc": "Fourth Great Ninja War", "summary": "Reanimated Itachi stops Edo Tensei; Obito is unmasked; Madara returns; Kaguya appears; Naruto and Sasuke seal her." },
+    { "arc": "Final battle", "summary": "Naruto and Sasuke fight at the Valley of the End; each loses an arm; they make peace." },
+    { "arc": "Epilogue (chapter 700)", "summary": "Naruto is the Seventh Hokage, married to Hinata with Boruto and Himawari; Sasuke wanders, married to Sakura with Sarada." }
+  ],
+  "shared_canon_events": ["chunin exams", "valley of the end", "akatsuki", "pain's assault", "fourth great ninja war", "fourth war", "ichiraku", "ramen", "team 7", "hokage", "kurama", "nine-tails", "rasengan", "chidori", "sharingan", "rinnegan", "edo tensei", "reanimation", "kaguya", "infinite tsukuyomi", "hidden leaf", "konoha", "mount myoboku", "toads", "sage mode", "uchiha massacre", "gaara", "sakura", "tsunade", "orochimaru", "hashirama", "the last", "boruto", "himawari", "sarada"],
+  "characters_in_app": ["010_itachi_uchiha", "013_madara_uchiha", "014_obito_uchiha", "020_naruto_uzumaki", "021_sasuke_uchiha", "024_kakashi_hatake", "043_hinata_hyuga", "046_minato_namikaze", "047_pain_nagato", "048_shikamaru_nara", "080_jiraiya"],
+  "verify": [],
+  "sources": [{ "url": "https://naruto.fandom.com/wiki/Narutopedia", "checked": "unchecked" }]
+}

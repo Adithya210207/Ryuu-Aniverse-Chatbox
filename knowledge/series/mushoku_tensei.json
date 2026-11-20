@@ -1,0 +1,39 @@
+{
+  "id": "mushoku_tensei",
+  "title": "Mushoku Tensei: Jobless Reincarnation",
+  "native_title": "無職転生 ～異世界行ったら本気だす～",
+  "status": "finished",
+  "source": "Mushoku Tensei light novels by Rifujin na Magonote (finished), to the end of the main story.",
+  "world": "A jobless man dies in Japan and is reborn as Rudeus Greyrat in a world of magic, keeping his memories and vowing to live seriously this time. A teleportation disaster scatters his family across the world, and his journey takes him across the Demon Continent and to a magic university as he grows up, marries and becomes a father. He is caught between the mysterious Hitogami (Man-God) and the Dragon God Orsted. A long coming-of-age fantasy about family and regret.",
+  "power_system": "Magic is cast through incantations or, rarely, silently; ranks go from Beginner to Emperor and God. Sword styles (Sword God, Water God, North God) shape fighters. Demon eyes and curses exist. Rudeus is a prodigy at silent magic and later builds Magic Armor.",
+  "places": [
+    { "name": "Buena Village", "line": "Rudeus's childhood home in Fittoa." },
+    { "name": "Fittoa Region", "line": "Region wiped out by the Displacement Incident." },
+    { "name": "Demon Continent", "line": "Where Rudeus travelled with Eris and Ruijerd." },
+    { "name": "Ranoa University of Magic", "line": "Where Rudeus studied and met Sylphie again." },
+    { "name": "Sharia", "line": "City where Rudeus made his home and family." }
+  ],
+  "groups": [
+    { "name": "Greyrat family", "line": "Paul, Zenith, Norn, Aisha, and later Rudeus's wives and children." },
+    { "name": "Dead End", "line": "Rudeus, Eris and Ruijerd's adventuring party." }
+  ],
+  "terms": [
+    { "term": "Displacement Incident", "aliases": ["teleport incident", "fittoa"], "line": "Disaster that scattered Rudeus's family." },
+    { "term": "Hitogami", "aliases": ["man-god"], "line": "Being who gives Rudeus advice in dreams, with hidden aims." },
+    { "term": "Orsted", "aliases": ["dragon god"], "line": "The Dragon God, Hitogami's enemy and later Rudeus's ally." },
+    { "term": "Superd", "line": "Ruijerd's feared race." },
+    { "term": "Magic Armor", "line": "Armour Rudeus built to fight stronger foes." },
+    { "term": "silent casting", "aliases": ["silent magic"], "line": "Casting without chanting, Rudeus's talent." }
+  ],
+  "timeline": [
+    { "arc": "Childhood", "summary": "Rudeus learns magic from Roxy and befriends Sylphie." },
+    { "arc": "Demon Continent", "summary": "After the Displacement, Rudeus, Eris and Ruijerd journey home." },
+    { "arc": "University and marriage", "summary": "Rudeus marries Sylphie; Paul dies in the Begaritt labyrinth; he later marries Roxy and Eris." },
+    { "arc": "Against Hitogami", "summary": "Rudeus works with Orsted against Hitogami's apostles." },
+    { "arc": "End of the main story", "summary": "Rudeus lives as a family man and Orsted's subordinate; his story ends in old age." }
+  ],
+  "shared_canon_events": ["buena village", "roxy", "sylphie", "eris", "paul", "zenith", "norn", "aisha", "ruijerd", "dead end", "displacement incident", "fittoa", "demon continent", "ranoa university", "orsted", "hitogami", "badigadi", "kishirika", "labyrinth", "magic armor", "lucy", "sharia", "ghislaine", "lilia"],
+  "characters_in_app": ["031_rudeus_greyrat"],
+  "verify": ["Rudeus's children's names and ages at the chosen snapshot"],
+  "sources": [{ "url": "https://mushokutensei.fandom.com/wiki/Mushoku_Tensei_Wiki", "checked": "unchecked" }]
+}

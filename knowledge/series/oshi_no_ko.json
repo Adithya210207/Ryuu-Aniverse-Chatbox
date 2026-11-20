@@ -1,0 +1,36 @@
+{
+  "id": "oshi_no_ko",
+  "title": "Oshi no Ko",
+  "native_title": "【推しの子】",
+  "status": "finished",
+  "source": "Oshi no Ko manga by Aka Akasaka and Mengo Yokoyari (ended 2024).",
+  "world": "A doctor and his young patient are reborn as Aqua and Ruby, the secret twin children of top idol Ai Hoshino of B-Komachi. When Ai is murdered, Aqua spends his life in show business hunting the man behind it, while Ruby chases her mother's dream of being an idol. The series looks behind the glamour of idols, acting, reality TV and manga adaptations. Bright on the surface, dark underneath.",
+  "power_system": "No magic powers. Reincarnation is the only supernatural element; star-shaped glints in the eyes show strong emotion and talent.",
+  "places": [
+    { "name": "Strawberry Productions", "line": "Talent agency that managed Ai and later Ruby." },
+    { "name": "Tokyo Dome", "line": "The stage Ai never got to perform on, and Ruby's dream." },
+    { "name": "Youtou High School", "line": "Performing-arts school Aqua and Ruby attend." }
+  ],
+  "groups": [
+    { "name": "B-Komachi", "line": "Ai's idol group; Ruby later leads the new B-Komachi with Kana and MEM-cho." },
+    { "name": "Lalalai Theatre Company", "line": "Akane Kurokawa's acting troupe." }
+  ],
+  "terms": [
+    { "term": "oshi", "line": "The idol or star a fan supports most." },
+    { "term": "B-Komachi", "aliases": ["b komachi"], "line": "Ai's idol group, revived by Ruby." },
+    { "term": "Tokyo Dome", "aliases": ["dome"], "line": "The biggest stage; the Dome concert." },
+    { "term": "15-Year Lie", "aliases": ["fifteen year lie"], "line": "The film about Ai's life Aqua makes in the final arc." },
+    { "term": "reincarnation", "aliases": ["reborn"], "line": "Aqua and Ruby remember their past lives." },
+    { "term": "Hikaru Kamiki", "aliases": ["kamiki"], "line": "The twins' biological father." }
+  ],
+  "timeline": [
+    { "arc": "Childhood", "summary": "Rebirth as Ai's twins; Ai is murdered before her Dome concert." },
+    { "arc": "Entertainment industry", "summary": "Aqua acts; Ruby, Kana and MEM-cho form the new B-Komachi." },
+    { "arc": "Reality show and stage play", "summary": "Akane's dating show; the Tokyo Blade stage play." },
+    { "arc": "Final arc", "summary": "The 15-Year Lie film; Aqua confronts Kamiki; Ruby performs at the Dome." }
+  ],
+  "shared_canon_events": ["b-komachi", "strawberry productions", "ichigo", "miyako", "kana", "arima", "akane", "mem-cho", "gorou", "sarina", "tokyo dome", "dome concert", "15-year lie", "tokyo blade", "love now", "kamiki", "youtou high", "stalker"],
+  "characters_in_app": ["081_aqua_hoshino", "082_ai_hoshino", "083_ruby_hoshino"],
+  "verify": ["Ages of Aqua and Ruby at the final arc (teen vs adult)"],
+  "sources": [{ "url": "https://oshi-no-ko.fandom.com/wiki/Oshi_no_Ko_Wiki", "checked": "unchecked" }]
+}

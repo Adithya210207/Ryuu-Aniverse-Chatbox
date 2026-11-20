@@ -1,0 +1,36 @@
+{
+  "id": "classroom_of_the_elite",
+  "title": "Classroom of the Elite",
+  "native_title": "ようこそ実力至上主義の教室へ",
+  "status": "ongoing",
+  "source": "Classroom of the Elite light novels by Shogo Kinugasa (Year 1, Year 2, and the ongoing Year 3 series).",
+  "world": "The government-run Advanced Nurturing High School promises its students their future, but classes compete ruthlessly for class points that decide their rank, and private points work as money. Kiyotaka Ayanokoji, raised in the secret White Room facility, hides his genius in the lowest class while quietly steering its rise. A psychological school thriller of manipulation, special exams and shifting alliances.",
+  "power_system": "No powers. Class points rank classes A to D; private points buy anything, even test scores or expulsions. Special exams (island survival, tests, votes) can expel students.",
+  "places": [
+    { "name": "Advanced Nurturing High School", "line": "Closed campus school where students may not contact the outside world." },
+    { "name": "White Room", "line": "Secret facility run by Ayanokoji's father to raise perfect humans." }
+  ],
+  "groups": [
+    { "name": "Class D (later C, B...)", "line": "Horikita's class; Class A in Year 3." },
+    { "name": "Class A", "line": "Sakayanagi's class in Years 1-2; now Class 3-C after she withdrew, with Ayanokoji transferred in." },
+    { "name": "Ryuen's class", "line": "Kakeru Ryuen's aggressive class." },
+    { "name": "Ichinose's class", "line": "Honami Ichinose's friendly class." },
+    { "name": "Student Council", "line": "School government, once led by Horikita's brother Manabu." }
+  ],
+  "terms": [
+    { "term": "class points", "line": "Points that rank the classes and set their monthly money." },
+    { "term": "private points", "aliases": ["points"], "line": "Money each student can spend on anything." },
+    { "term": "special exam", "aliases": ["special exams"], "line": "School-wide competitions that can expel students." },
+    { "term": "White Room", "line": "The facility that raised Ayanokoji." },
+    { "term": "expulsion", "aliases": ["expelled"], "line": "The punishment special exams can bring." }
+  ],
+  "timeline": [
+    { "arc": "Year 1", "summary": "Class D's rise; island exam; Karuizawa becomes his ally and later girlfriend; Ryuen is defeated; Sakayanagi is beaten in the class vote." },
+    { "arc": "Year 2", "summary": "White Room students enter the school; Ayanokoji's father tries to remove him; class battles intensify." },
+    { "arc": "Year 3", "summary": "Horikita's class starts as Class A; Ayanokoji breaks up with Karuizawa and transfers to 3-C (Sakayanagi's former class, teacher Mashima); Sakayanagi has withdrawn." }
+  ],
+  "shared_canon_events": ["advanced nurturing high school", "white room", "class d", "class a", "horikita", "karuizawa", "kei", "kushida", "hirata", "sudo", "ryuen", "sakayanagi", "ichinose", "chabashira", "manabu", "island exam", "cruise ship", "special exam", "class points", "private points", "student council", "atsuomi"],
+  "characters_in_app": ["003_kiyotaka_ayanokoji"],
+  "verify": ["Latest volume after mid-2026"],
+  "sources": [{ "url": "https://you-zitsu.fandom.com/wiki/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e_Wiki", "checked": "unchecked" }]
+}

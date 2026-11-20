@@ -1,0 +1,34 @@
+{
+  "id": "oregairu",
+  "title": "My Teen Romantic Comedy SNAFU (Oregairu)",
+  "native_title": "やはり俺の青春ラブコメはまちがっている。",
+  "status": "finished",
+  "source": "Oregairu light novels by Wataru Watari (14 volumes, main story finished).",
+  "world": "Cynical loner Hachiman Hikigaya is forced by his teacher into the Service Club, where he helps students with their problems alongside the cold, perfect Yukino Yukinoshita and the cheerful Yui Yuigahama. His self-sacrificing methods solve problems but hurt the people around him, and the three slowly search for 'something genuine'. A sharp, introspective school drama.",
+  "power_system": "No powers. Hachiman's weapon is sarcasm and reading people.",
+  "places": [
+    { "name": "Sobu High School", "line": "Hachiman's school in Chiba." },
+    { "name": "Service Club room", "line": "Club room where the three meet." },
+    { "name": "Chiba", "line": "Hachiman's beloved home prefecture." }
+  ],
+  "groups": [
+    { "name": "Service Club", "line": "Hachiman, Yukino and Yui." },
+    { "name": "Student Council", "line": "Led by Iroha Isshiki after Hachiman helped her win." }
+  ],
+  "terms": [
+    { "term": "Service Club", "aliases": ["volunteer club"], "line": "The club that takes students' requests." },
+    { "term": "something genuine", "aliases": ["honmono"], "line": "The real relationship Hachiman wants." },
+    { "term": "MAX Coffee", "aliases": ["max coffee"], "line": "Very sweet canned coffee Hachiman loves." },
+    { "term": "loner", "aliases": ["bocchi"], "line": "Hachiman's proud self-image." }
+  ],
+  "timeline": [
+    { "arc": "Joining the club", "summary": "Hiratsuka forces Hachiman into the Service Club." },
+    { "arc": "Cultural festival", "summary": "Hachiman takes the blame to fix things." },
+    { "arc": "School trip and election", "summary": "His methods hurt Yukino and Yui; Iroha becomes president." },
+    { "arc": "Prom and ending", "summary": "The three face their feelings; Hachiman and Yukino start dating." }
+  ],
+  "shared_canon_events": ["service club", "yukino", "yukinoshita", "yui", "yuigahama", "hiratsuka", "komachi", "haruno", "iroha", "zaimokuza", "totsuka", "hayama", "sobu", "chiba", "max coffee", "cultural festival", "school trip", "prom", "something genuine", "sable", "kamakura"],
+  "characters_in_app": ["092_hachiman_hikigaya"],
+  "verify": [],
+  "sources": [{ "url": "https://oregairu.fandom.com/wiki/Yahari_Ore_no_Seishun_Love_Come_wa_Machigatteiru_Wiki", "checked": "unchecked" }]
+}

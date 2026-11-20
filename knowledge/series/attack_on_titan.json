@@ -1,0 +1,45 @@
+{
+  "id": "attack_on_titan",
+  "title": "Attack on Titan",
+  "native_title": "進撃の巨人",
+  "status": "finished",
+  "source": "Attack on Titan manga by Hajime Isayama (139 chapters), to the final chapter.",
+  "world": "Humanity lives inside three giant walls on the island of Paradis, hiding from man-eating Titans. Eren Yeager, Mikasa Ackerman and Armin Arlert join the Survey Corps after the Colossal Titan breaks the wall. They learn the walls hide a bigger world: the nation of Marley, the Eldian people who can turn into Titans, and a cycle of war and hatred. The story ends with the Rumbling and Eren's death. Grim, political and emotional.",
+  "power_system": "Nine Titan Shifters (Attack, Founding, Colossal, Armored, Female, Beast, Jaw, Cart, War Hammer) can transform; the power is passed on by being eaten. Shifters live only thirteen years after inheriting. Soldiers fight Titans with vertical manoeuvring (ODM) gear, aiming for the nape.",
+  "places": [
+    { "name": "Paradis Island", "line": "The island where the walls stand." },
+    { "name": "Walls Maria, Rose and Sina", "line": "The three walls, from outer to inner." },
+    { "name": "Shiganshina District", "line": "Eren's home town, where the wall first fell." },
+    { "name": "Marley", "line": "The nation across the sea that uses Titans as weapons." },
+    { "name": "The Paths", "line": "Mysterious place where all Eldians are connected." }
+  ],
+  "groups": [
+    { "name": "Survey Corps", "line": "Soldiers who go beyond the walls; symbol: the Wings of Freedom." },
+    { "name": "104th Training Corps", "line": "Eren's training class (Mikasa, Armin, Jean, Connie, Sasha, Reiner, Bertholdt, Annie, Historia, Ymir)." },
+    { "name": "Levi Squad", "line": "Captain Levi's elite squad." },
+    { "name": "Yeagerists", "line": "Eren's followers in the final arc." }
+  ],
+  "terms": [
+    { "term": "Titan", "aliases": ["titans"], "line": "Giant man-eating human forms." },
+    { "term": "Attack Titan", "line": "Eren's Titan, which can see future memories." },
+    { "term": "Founding Titan", "aliases": ["coordinate"], "line": "The Titan that can control all Titans and Eldians." },
+    { "term": "ODM gear", "aliases": ["omni-directional mobility gear", "3d manoeuvre gear", "3dmg"], "line": "Grappling gear soldiers use to fly." },
+    { "term": "the nape", "aliases": ["nape"], "line": "The weak point of a Titan." },
+    { "term": "the basement", "line": "Grisha's basement in Shiganshina with the truth about the world." },
+    { "term": "the Rumbling", "aliases": ["rumbling"], "line": "Eren's release of the Wall Titans to trample the world." },
+    { "term": "Eldian", "aliases": ["eldians", "subjects of ymir"], "line": "The people who can become Titans." }
+  ],
+  "timeline": [
+    { "arc": "Fall of Shiganshina", "summary": "The wall breaks; Eren's mother Carla is eaten." },
+    { "arc": "Trost and the Female Titan", "summary": "Eren becomes a Titan; Annie is exposed." },
+    { "arc": "Clash of the Titans", "summary": "Reiner and Bertholdt are revealed as Titans." },
+    { "arc": "Uprising", "summary": "Historia becomes queen." },
+    { "arc": "Return to Shiganshina", "summary": "Wall Maria retaken; Erwin dies; the basement reveals the outside world." },
+    { "arc": "Marley", "summary": "Eren attacks Liberio." },
+    { "arc": "War for Paradis and the Rumbling", "summary": "Eren starts the Rumbling; his friends stop him; Mikasa ends his life; the Titans vanish." }
+  ],
+  "shared_canon_events": ["shiganshina", "wall maria", "wall rose", "wall sina", "trost", "female titan", "colossal titan", "armored titan", "survey corps", "104th", "armin", "jean", "sasha", "connie", "historia", "erwin", "hange", "reiner", "bertholdt", "annie", "zeke", "the basement", "marley", "liberio", "the rumbling", "paths", "odm gear", "wings of freedom", "carla", "grisha", "falco", "gabi"],
+  "characters_in_app": ["009_eren_yeager", "025_levi_ackerman", "035_mikasa_ackerman"],
+  "verify": [],
+  "sources": [{ "url": "https://attackontitan.fandom.com/wiki/Attack_on_Titan_Wiki", "checked": "unchecked" }]
+}

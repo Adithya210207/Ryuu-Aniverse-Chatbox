@@ -1,0 +1,36 @@
+{
+  "id": "monster",
+  "title": "Monster",
+  "native_title": "MONSTER",
+  "status": "finished",
+  "source": "Monster manga by Naoki Urasawa (162 chapters).",
+  "world": "In 1986 Düsseldorf, Japanese neurosurgeon Kenzo Tenma saves a young boy, Johan Liebert, instead of the mayor. Years later he learns the boy grew into a charming, nameless monster who manipulates people into murder. Tenma, framed for Johan's crimes, chases him across post-reunification Germany and Czechoslovakia, uncovering the orphanage Kinderheim 511 and the experiments that shaped Johan and his twin sister Nina. A slow, realistic psychological thriller.",
+  "power_system": "No powers. Johan's danger comes from manipulation, charisma and his ability to make people lose their sense of self.",
+  "places": [
+    { "name": "Eisler Memorial Hospital", "line": "Düsseldorf hospital where Tenma saved Johan." },
+    { "name": "Kinderheim 511", "line": "East German orphanage running experiments on children." },
+    { "name": "Prague", "line": "Where the Red Rose Mansion and Johan's mother's past are found." },
+    { "name": "Ruhenheim", "line": "Small Bavarian town of the final confrontation." }
+  ],
+  "groups": [
+    { "name": "BKA", "line": "German federal police; Inspector Lunge hunts Tenma." },
+    { "name": "Kinderheim 511 staff", "line": "Those behind the orphanage experiments." }
+  ],
+  "terms": [
+    { "term": "Kinderheim 511", "aliases": ["511"], "line": "The orphanage experiment." },
+    { "term": "The Nameless Monster", "aliases": ["picture book"], "line": "Picture book by Franz Bonaparta that haunts Johan." },
+    { "term": "Red Rose Mansion", "line": "Mansion in Prague tied to Bonaparta's experiments." },
+    { "term": "Anna", "aliases": ["nina fortner", "nina"], "line": "Johan's twin sister." },
+    { "term": "the end of the world", "aliases": ["landscape at the end"], "line": "The final landscape Johan wants to see." }
+  ],
+  "timeline": [
+    { "arc": "Düsseldorf", "summary": "Tenma saves Johan; nine years later Johan reveals himself." },
+    { "arc": "The chase", "summary": "Tenma, framed, hunts Johan; Nina recovers memories; Lunge pursues Tenma." },
+    { "arc": "Prague", "summary": "The Red Rose Mansion and the twins' mother." },
+    { "arc": "Ruhenheim", "summary": "The town turns on itself; Johan is shot and falls into a coma; Tenma visits him in hospital; his bed is later empty." }
+  ],
+  "shared_canon_events": ["tenma", "eisler memorial hospital", "dusseldorf", "kinderheim 511", "anna", "nina", "lunge", "grimmer", "eva", "heinemann", "bonaparta", "red rose mansion", "prague", "ruhenheim", "nameless monster", "roberto", "dieter", "schuwald", "karl"],
+  "characters_in_app": ["006_johan_liebert"],
+  "verify": [],
+  "sources": [{ "url": "https://monster.fandom.com/wiki/Monster_Wiki", "checked": "unchecked" }]
+}

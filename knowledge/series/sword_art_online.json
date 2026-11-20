@@ -1,0 +1,39 @@
+{
+  "id": "sword_art_online",
+  "title": "Sword Art Online",
+  "native_title": "ソードアート・オンライン",
+  "status": "ongoing",
+  "source": "Sword Art Online light novels by Reki Kawahara (ongoing). Snapshots use the latest published arc.",
+  "world": "In 2022, ten thousand players are trapped in the virtual reality MMO Sword Art Online, where dying in the game means dying for real. Solo player Kirito, the Black Swordsman, and Asuna of the Knights of the Blood Oath fight to clear the floating castle Aincrad and fall in love. Later arcs take them through other games (ALfheim Online, Gun Gale Online) and the Underworld simulation of Alicization. A blend of game adventure, romance and questions about AI.",
+  "power_system": "Game systems: levels, skills and sword skills. Kirito has the Dual Blades skill. In the Underworld, imagination (Incarnation) can override the system.",
+  "places": [
+    { "name": "Aincrad", "line": "The floating castle of 100 floors in SAO." },
+    { "name": "Floor 22 cabin", "line": "Where Kirito and Asuna lived after marrying in the game." },
+    { "name": "Underworld", "line": "The simulated world of the Alicization arc." },
+    { "name": "Alfheim", "line": "The fairy world of ALfheim Online." }
+  ],
+  "groups": [
+    { "name": "Knights of the Blood Oath", "line": "Top guild led by Heathcliff; Asuna was its sub-leader." },
+    { "name": "Kirito's friends", "line": "Asuna, Klein, Agil, Leafa (Suguha), Sinon, Lisbeth, Silica and Yui." }
+  ],
+  "terms": [
+    { "term": "NerveGear", "line": "Headset that trapped players in SAO." },
+    { "term": "Black Swordsman", "line": "Kirito's nickname." },
+    { "term": "Dual Blades", "aliases": ["dual wielding", "starburst stream"], "line": "Kirito's two-sword skill." },
+    { "term": "The Flash", "aliases": ["lightning flash"], "line": "Asuna's nickname for her speed." },
+    { "term": "Yui", "line": "AI girl Kirito and Asuna call their daughter." },
+    { "term": "Heathcliff", "aliases": ["kayaba", "akihiko kayaba"], "line": "Creator of SAO who hid as the guild leader." },
+    { "term": "Alicization", "aliases": ["project alicization"], "line": "Arc in the Underworld simulation." }
+  ],
+  "timeline": [
+    { "arc": "Aincrad", "summary": "Players trapped; Kirito and Asuna meet, marry in-game and defeat Heathcliff." },
+    { "arc": "Fairy Dance", "summary": "Kirito rescues Asuna from ALO." },
+    { "arc": "Phantom Bullet and Mother's Rosario", "summary": "Kirito meets Sinon; Asuna befriends Yuuki." },
+    { "arc": "Alicization", "summary": "The Underworld; Eugeo; war against the Dark Territory." },
+    { "arc": "Unital Ring", "summary": "Survival game merging worlds (ongoing: check the date)." }
+  ],
+  "shared_canon_events": ["aincrad", "sword art online", "nervegear", "knights of the blood oath", "heathcliff", "kayaba", "floor 22", "yui", "klein", "agil", "lisbeth", "silica", "leafa", "suguha", "sinon", "alfheim", "gun gale online", "yuuki", "eugeo", "alice", "underworld", "alicization", "unital ring", "dual blades", "elucidator", "lambent light"],
+  "characters_in_app": ["019_kirito", "037_asuna_yuuki"],
+  "verify": ["Kirito's and Asuna's ages at the latest arc (teen vs adult)", "Latest volume after mid-2026"],
+  "sources": [{ "url": "https://swordartonline.fandom.com/wiki/Sword_Art_Online_Wiki", "checked": "unchecked" }]
+}

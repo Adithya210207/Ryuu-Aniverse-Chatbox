@@ -1,0 +1,32 @@
+# Models live only in Ollama on the author's PC
+*.gguf
+*.safetensors
+*.zip
+
+# Private
+HANDOFF.md
+history/
+persona.json
+settings.json
+favorites.json
+logs/
+
+# Build output and downloaded tools
+out/
+lib/
+pkg/
+Ryuu Aniverse/
+*.lnk
+__pycache__/
+*.pyc
+
+# Office lock files
+~$*
+dist/
+
+# Release / local copies
+Ryuu Aniverse v2/
+
+# Portraits are not published with the source (fan art of third-party characters; users add their own)
+assets/portraits/*
+!assets/portraits/README.md

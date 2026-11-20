@@ -1,0 +1,34 @@
+{
+  "id": "erased",
+  "title": "ERASED",
+  "native_title": "僕だけがいない街",
+  "status": "finished",
+  "source": "ERASED (Boku dake ga Inai Machi) manga by Kei Sanbe (finished).",
+  "world": "Struggling manga artist Satoru Fujinuma has 'Revival', a phenomenon that sends him back a few minutes before a tragedy so he can prevent it. When his mother is murdered, Revival sends him back to 1988 in his Hokkaido childhood, where he must save his classmate Kayo Hinazuki and others from a serial kidnapper. He succeeds but falls into a long coma and wakes years later to finish the fight with the real killer, his teacher Gaku Yashiro. A tense, touching mystery about courage and friendship.",
+  "power_system": "No powers except Revival, which sends Satoru back in time before something bad happens.",
+  "places": [
+    { "name": "Ishikari, Hokkaido", "line": "Satoru's snowy childhood town." },
+    { "name": "Tokyo", "line": "Where adult Satoru lived as a pizza delivery worker and manga artist." },
+    { "name": "Secret base", "line": "The abandoned bus where Satoru hid Kayo." }
+  ],
+  "groups": [
+    { "name": "Satoru's childhood friends", "line": "Kayo, Kenya, Hiromi, Osamu and Kazu." }
+  ],
+  "terms": [
+    { "term": "Revival", "aliases": ["re-revival"], "line": "Satoru's time-jump phenomenon." },
+    { "term": "1988", "line": "The year Satoru returns to as a child." },
+    { "term": "Yashiro", "aliases": ["gaku yashiro"], "line": "Satoru's teacher, secretly the killer." },
+    { "term": "Airi", "aliases": ["airi katagiri"], "line": "Satoru's young co-worker who believed in him." },
+    { "term": "coma", "line": "Satoru slept for about fifteen years after Yashiro's attack." }
+  ],
+  "timeline": [
+    { "arc": "2006", "summary": "Satoru's mother Sachiko is murdered; Revival sends him to 1988." },
+    { "arc": "1988", "summary": "Satoru saves Kayo and others, but Yashiro attacks him and he falls into a coma." },
+    { "arc": "Awakening", "summary": "Satoru wakes in 2003 and traps Yashiro." },
+    { "arc": "2012", "summary": "Satoru is a manga artist again and meets Airi under a bridge." }
+  ],
+  "shared_canon_events": ["revival", "1988", "kayo", "hinazuki", "kenya", "hiromi", "sachiko", "mom", "yashiro", "airi", "ishikari", "hokkaido", "secret base", "coma", "pizza delivery", "manga", "satoru's mother", "birthday party"],
+  "characters_in_app": ["088_satoru_fujinuma"],
+  "verify": ["Exact years of the coma and awakening"],
+  "sources": [{ "url": "https://bokudakegainaimachi.fandom.com/wiki/Boku_Dake_ga_Inai_Machi_Wiki", "checked": "unchecked" }]
+}

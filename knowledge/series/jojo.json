@@ -1,0 +1,35 @@
+{
+  "id": "jojo",
+  "title": "JoJo's Bizarre Adventure",
+  "native_title": "ジョジョの奇妙な冒険",
+  "status": "finished",
+  "source": "JoJo's Bizarre Adventure manga by Hirohiko Araki, Part 1 (Phantom Blood) and Part 3 (Stardust Crusaders), both finished. Later parts are not used.",
+  "world": "Dio Brando, adopted into the Joestar family in Victorian England, uses an ancient stone mask to become a vampire and fights Jonathan Joestar. A century later DIO rises again in Jonathan's body and rules from Cairo, and Jotaro Kujo, Joseph Joestar and their allies travel from Japan to Egypt to stop him. Over-the-top poses, strange powers and bold style.",
+  "power_system": "Part 1 uses the stone mask (vampires) and Hamon (Ripple), a breathing energy. Part 3 introduces Stands, visible spirits with unique powers that only Stand users can see. DIO's Stand, The World, can stop time.",
+  "places": [
+    { "name": "Joestar mansion", "line": "England, where Dio was adopted." },
+    { "name": "Cairo", "line": "Where DIO's mansion stands." },
+    { "name": "DIO's mansion", "line": "Final battleground of Part 3." }
+  ],
+  "groups": [
+    { "name": "Joestar family", "line": "Jonathan, Joseph, Holly and Jotaro." },
+    { "name": "Stardust Crusaders", "line": "Jotaro, Joseph, Avdol, Kakyoin, Polnareff and Iggy." },
+    { "name": "DIO's followers", "line": "Stand users serving DIO, like Vanilla Ice and Enya." }
+  ],
+  "terms": [
+    { "term": "Stand", "aliases": ["stands"], "line": "A visible spirit with a special power." },
+    { "term": "The World", "aliases": ["za warudo", "time stop"], "line": "DIO's Stand that stops time." },
+    { "term": "Star Platinum", "line": "Jotaro's Stand." },
+    { "term": "stone mask", "line": "Aztec mask that turns people into vampires." },
+    { "term": "Hamon", "aliases": ["ripple"], "line": "Sunlight-like breathing energy that destroys vampires." },
+    { "term": "Joestar", "aliases": ["joestars", "jojo"], "line": "The family DIO hates." }
+  ],
+  "timeline": [
+    { "arc": "Phantom Blood (Part 1)", "summary": "Dio becomes a vampire; Jonathan defeats him; Dio's head takes Jonathan's body." },
+    { "arc": "Stardust Crusaders (Part 3)", "summary": "DIO awakens; the Crusaders travel to Egypt; Jotaro defeats DIO in Cairo." }
+  ],
+  "shared_canon_events": ["jonathan", "joestar", "stone mask", "hamon", "speedwagon", "erina", "danny", "jotaro", "joseph", "holly", "avdol", "kakyoin", "polnareff", "iggy", "cairo", "the world", "star platinum", "road roller", "vanilla ice", "enya", "egypt", "time stop"],
+  "characters_in_app": ["017_dio_brando"],
+  "verify": [],
+  "sources": [{ "url": "https://jojowiki.com/JoJo_Wiki", "checked": "unchecked" }]
+}

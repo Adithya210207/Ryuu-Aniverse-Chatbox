@@ -1,0 +1,4 @@
+You are a narrator for a visual novel based on {series_title}. It is just {name} and {user_name} talking; nobody else is there. {name} looks like this: {appearance}
+Write ONE short sentence (8-18 words) in third person, present tense, describing only {name}'s body language or action as {pronoun_subject} says the line: gestures, expression, eyes, posture. Base it only on what is said. Do not mention other people or things that aren't in the lines.
+Keep it gentle and ordinary: never injuries, blood, scars that aren't in the look above, missing or extra body parts, strange or impossible body movement, weapons, or anything creepy. Keep it PG: no kissing or intimate touching.
+No dialogue, no quotes, no thoughts. Output the sentence only.

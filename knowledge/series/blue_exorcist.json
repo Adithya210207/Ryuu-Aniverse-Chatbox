@@ -1,0 +1,37 @@
+{
+  "id": "blue_exorcist",
+  "title": "Blue Exorcist",
+  "native_title": "青の祓魔師",
+  "status": "ongoing",
+  "source": "Blue Exorcist manga by Kazue Kato (ongoing). Snapshots use the latest published arc.",
+  "world": "Rin Okumura learns he is the son of Satan when blue flames burst out of him and his adoptive father, the exorcist Shiro Fujimoto, dies protecting him. Rin enrols at True Cross Academy with his twin brother Yukio to become an exorcist and beat Satan. His classmates slowly learn to trust him despite his demon blood. Shonen action with family drama.",
+  "power_system": "Exorcists fight demons from Gehenna in classes like Knight, Dragoon, Tamer, Doctor and Aria. Rin's blue flames come from Satan and are sealed in the sword Kurikara; drawing it releases his demon form.",
+  "places": [
+    { "name": "True Cross Academy", "line": "School and secret exorcist cram school." },
+    { "name": "Southern Cross Monastery", "line": "Rin's childhood home with Shiro." },
+    { "name": "Kyoto", "line": "Site of the Impure King arc." },
+    { "name": "Gehenna and Assiah", "line": "The demon world and the human world." }
+  ],
+  "groups": [
+    { "name": "Order of the True Cross", "line": "Exorcist organisation." },
+    { "name": "Exwire class", "line": "Rin's classmates: Shiemi, Bon, Konekomaru, Shima, Izumo." },
+    { "name": "Illuminati", "line": "Secret group working against the Order." }
+  ],
+  "terms": [
+    { "term": "blue flames", "aliases": ["blue fire"], "line": "Satan's fire that Rin carries." },
+    { "term": "Kurikara", "line": "The sword sealing Rin's demon power." },
+    { "term": "exwire", "line": "An exorcist trainee." },
+    { "term": "Mephisto", "aliases": ["mephisto pheles"], "line": "The academy's eccentric director." },
+    { "term": "Blue Night", "line": "The night Satan killed many exorcists years ago." }
+  ],
+  "timeline": [
+    { "arc": "Awakening", "summary": "Rin's flames appear; Shiro dies; Rin joins True Cross." },
+    { "arc": "Kyoto Impure King", "summary": "Rin learns to control his flames." },
+    { "arc": "Illuminati and Yukio", "summary": "Yukio's own flames and the Illuminati." },
+    { "arc": "Later arcs", "summary": "The past of Shiro and the twins' mother Yuri; latest arcs (check the date)." }
+  ],
+  "shared_canon_events": ["true cross academy", "shiro", "fujimoto", "yukio", "shiemi", "bon", "suguro", "konekomaru", "shima", "izumo", "mephisto", "kuro", "kurikara", "blue night", "impure king", "kyoto", "illuminati", "satan", "yuri egin", "sukiyaki"],
+  "characters_in_app": ["090_rin_okumura"],
+  "verify": ["Latest published arc after mid-2026"],
+  "sources": [{ "url": "https://aonoexorcist.fandom.com/wiki/Ao_no_Exorcist_Wiki", "checked": "unchecked" }]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "fate",
+  "title": "Fate/stay night",
+  "native_title": "Fate/stay night",
+  "status": "finished",
+  "source": "Fate/stay night visual novel by Type-Moon (routes Fate, Unlimited Blade Works, Heaven's Feel), with Fate/Zero as background. Saber uses the Fate route ending.",
+  "world": "In Fuyuki City, seven Masters summon seven Servants, heroic spirits of legend, to fight to the death in the Holy Grail War for a wish-granting Grail. Student Shirou Emiya accidentally summons Saber, King Arthur, in the Fifth Holy Grail War. The Archer of the previous war, Gilgamesh, remains in the world. Each route shows a different outcome for the same war. Epic battles mixed with questions about ideals and regret.",
+  "power_system": "Masters use magic circuits and three Command Seals to give absolute orders to their Servant. Servants come in seven classes (Saber, Archer, Lancer, Rider, Caster, Assassin, Berserker) and fight with Noble Phantasms, legendary weapons or abilities. Servants need mana from their Master to stay in the world.",
+  "places": [
+    { "name": "Fuyuki City", "line": "Japanese city where the Holy Grail Wars are fought." },
+    { "name": "Emiya residence", "line": "Shirou's home where Saber stays." },
+    { "name": "Ryuudou Temple", "line": "Temple on the mountain, key to the Grail." },
+    { "name": "Camlann", "line": "The hill of King Arthur's last battle." },
+    { "name": "Avalon", "line": "The ideal land; also Saber's sheath." }
+  ],
+  "groups": [
+    { "name": "Masters", "line": "Shirou, Rin Tohsaka, Sakura Matou, Illya, Kirei Kotomine and others." },
+    { "name": "Servants", "line": "Heroic spirits summoned in seven classes." },
+    { "name": "Knights of the Round Table", "line": "Artoria's knights in life." }
+  ],
+  "terms": [
+    { "term": "Holy Grail War", "aliases": ["grail war", "holy grail"], "line": "Battle between seven Masters and Servants for the Grail." },
+    { "term": "Servant", "aliases": ["servants", "heroic spirit"], "line": "A summoned legendary hero." },
+    { "term": "Master", "aliases": ["masters"], "line": "The mage who summons and commands a Servant." },
+    { "term": "Command Seal", "aliases": ["command seals"], "line": "Three marks giving absolute orders to a Servant." },
+    { "term": "Noble Phantasm", "line": "A Servant's legendary weapon or ability." },
+    { "term": "Excalibur", "line": "Saber's holy sword." },
+    { "term": "Gate of Babylon", "line": "Gilgamesh's treasury of every legendary weapon." },
+    { "term": "Enuma Elish", "aliases": ["ea"], "line": "Gilgamesh's strongest attack with his sword Ea." },
+    { "term": "Avalon", "line": "Excalibur's sheath, sealed inside Shirou." },
+    { "term": "Unlimited Blade Works", "line": "Shirou and Archer's reality marble of swords." }
+  ],
+  "timeline": [
+    { "arc": "Fourth Holy Grail War (Fate/Zero)", "summary": "Saber fights for Kiritsugu; Gilgamesh serves Tokiomi, then Kirei, and stays in the world after." },
+    { "arc": "Fifth Holy Grail War begins", "summary": "Shirou summons Saber." },
+    { "arc": "Fate route", "summary": "Shirou and Saber grow close; Gilgamesh is defeated; Saber destroys the Grail and returns to Camlann." },
+    { "arc": "Unlimited Blade Works / Heaven's Feel routes", "summary": "Other outcomes where Rin or Sakura are central." }
+  ],
+  "shared_canon_events": ["holy grail war", "fourth holy grail war", "fifth holy grail war", "fuyuki", "shirou", "rin", "sakura", "illya", "kirei", "kotomine", "kiritsugu", "irisviel", "archer", "lancer", "rider", "berserker", "excalibur", "avalon", "camlann", "gate of babylon", "ea", "enuma elish", "command seal", "servant", "master"],
+  "characters_in_app": ["098_artoria_pendragon", "099_gilgamesh"],
+  "verify": ["Which route ending Gilgamesh should use (agent names it)"],
+  "sources": [{ "url": "https://typemoon.fandom.com/wiki/TYPE-MOON_Wiki", "checked": "unchecked" }]
+}

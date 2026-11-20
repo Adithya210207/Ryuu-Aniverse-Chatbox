@@ -1,0 +1,43 @@
+{
+  "id": "hunter_x_hunter",
+  "title": "Hunter × Hunter",
+  "native_title": "HUNTER×HUNTER",
+  "status": "hiatus",
+  "source": "Hunter × Hunter manga by Yoshihiro Togashi (ongoing, often on hiatus). Meruem ends at the Chimera Ant arc; Killua uses the latest arc he appears in.",
+  "world": "Gon Freecss sets out to become a Hunter, a licensed adventurer, to find his father Ging, and befriends Killua Zoldyck, heir of a family of assassins. Their adventures cross the Hunter Exam, Heavens Arena, Greed Island and the deadly Chimera Ant invasion led by the Ant King Meruem. After the Election arc, Killua travels with his sister Alluka. Inventive battles and morally grey characters.",
+  "power_system": "Nen is the use of one's life energy (aura). Every user has one of six types: Enhancement, Transmutation, Emission, Conjuration, Manipulation or Specialization. Conditions and vows make Nen abilities stronger. Killua transmutes aura into electricity (Godspeed).",
+  "places": [
+    { "name": "Whale Island", "line": "Gon's home." },
+    { "name": "Kukuroo Mountain", "line": "The Zoldyck family estate." },
+    { "name": "Heavens Arena", "line": "Fighting tower where Gon and Killua learned Nen." },
+    { "name": "Greed Island", "line": "A Nen-made video game played in real life." },
+    { "name": "East Gorteau", "line": "Country the Chimera Ant King took over." }
+  ],
+  "groups": [
+    { "name": "Hunter Association", "line": "Licenses Hunters; led by Netero until the Ant arc." },
+    { "name": "Zoldyck family", "line": "Famous assassin family: Silva, Kikyo, Illumi, Milluki, Killua, Alluka, Kalluto." },
+    { "name": "Phantom Troupe", "line": "Thieves led by Chrollo." },
+    { "name": "Royal Guard", "line": "Meruem's three guards: Neferpitou, Shaiapouf and Menthuthuyoupi." }
+  ],
+  "terms": [
+    { "term": "Nen", "aliases": ["aura"], "line": "Life energy used for abilities." },
+    { "term": "Hunter Exam", "aliases": ["hunter license"], "line": "The test to become a licensed Hunter." },
+    { "term": "Godspeed", "aliases": ["kanmuru"], "line": "Killua's lightning speed ability." },
+    { "term": "Gungi", "line": "Board game Meruem plays against Komugi." },
+    { "term": "Chimera Ant", "aliases": ["chimera ants", "ant king"], "line": "Ants that eat humans and gain their traits." },
+    { "term": "Nanika", "line": "The mysterious being inside Alluka who can grant wishes." },
+    { "term": "Poor Man's Rose", "aliases": ["miniature rose"], "line": "The bomb Netero used against Meruem." }
+  ],
+  "timeline": [
+    { "arc": "Hunter Exam", "summary": "Gon meets Killua, Kurapika and Leorio." },
+    { "arc": "Heavens Arena and Yorknew", "summary": "Gon and Killua learn Nen; the Phantom Troupe." },
+    { "arc": "Greed Island", "summary": "Training with Biscuit and clearing the game." },
+    { "arc": "Chimera Ant", "summary": "Meruem is born, meets Komugi, fights Netero and dies of poison beside her." },
+    { "arc": "Election", "summary": "Killua uses Alluka to heal Gon, then travels with Alluka." },
+    { "arc": "Succession Contest", "summary": "The Dark Continent voyage (ongoing; Killua barely appears)." }
+  ],
+  "shared_canon_events": ["hunter exam", "gon", "kurapika", "leorio", "hisoka", "illumi", "alluka", "nanika", "zoldyck", "kukuroo mountain", "heavens arena", "greed island", "bisky", "biscuit", "chimera ant", "netero", "komugi", "gungi", "neferpitou", "election", "ging", "palm", "ikalgo"],
+  "characters_in_app": ["018_meruem", "027_killua_zoldyck"],
+  "verify": ["Killua's age at the end of the Election arc"],
+  "sources": [{ "url": "https://hunterxhunter.fandom.com/wiki/Hunterpedia", "checked": "unchecked" }]
+}

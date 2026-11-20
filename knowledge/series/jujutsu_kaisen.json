@@ -1,0 +1,45 @@
+{
+  "id": "jujutsu_kaisen",
+  "title": "Jujutsu Kaisen",
+  "native_title": "呪術廻戦",
+  "status": "finished",
+  "source": "Jujutsu Kaisen manga by Gege Akutami (ended 2024), including Jujutsu Kaisen 0. Characters who die earlier end at their final arc.",
+  "world": "In modern Japan, negative human emotions create Curses, invisible monsters that jujutsu sorcerers exorcise. Yuji Itadori swallows a finger of Ryomen Sukuna, the King of Curses, and joins Tokyo Jujutsu High under Satoru Gojo. The story escalates through the Shibuya Incident and the Culling Game to the final battle against Sukuna in Shinjuku. Stylish, brutal and often darkly funny.",
+  "power_system": "Sorcerers channel cursed energy through innate cursed techniques. A Domain Expansion traps enemies in a space where the user's technique always hits. Sorcerers and curses are ranked from Grade 4 to Special Grade. Toji Fushiguro has no cursed energy at all (Heavenly Restriction) in exchange for superhuman body strength.",
+  "places": [
+    { "name": "Tokyo Jujutsu High", "line": "School for sorcerers where Gojo teaches." },
+    { "name": "Kyoto Jujutsu High", "line": "Sister school, rival in the Goodwill Event." },
+    { "name": "Shibuya", "line": "Site of the Shibuya Incident on Halloween." },
+    { "name": "Shinjuku", "line": "Site of the final showdown with Sukuna." }
+  ],
+  "groups": [
+    { "name": "Jujutsu sorcerers", "line": "People who exorcise curses, led by conservative higher-ups." },
+    { "name": "Geto's cult", "line": "Religious group Geto ran to gather curses and money." },
+    { "name": "Zenin, Gojo and Kamo clans", "line": "The three great sorcerer families." }
+  ],
+  "terms": [
+    { "term": "cursed energy", "line": "Energy from negative emotions that powers techniques." },
+    { "term": "Curse", "aliases": ["curses", "cursed spirit"], "line": "Monster born from negative emotions." },
+    { "term": "Domain Expansion", "aliases": ["domain"], "line": "A technique that builds a space where the user's attack always lands." },
+    { "term": "Infinity", "aliases": ["limitless", "six eyes"], "line": "Gojo's technique; with the Six Eyes it makes him nearly untouchable." },
+    { "term": "Unlimited Void", "line": "Gojo's Domain Expansion." },
+    { "term": "Malevolent Shrine", "line": "Sukuna's Domain Expansion." },
+    { "term": "Sukuna's fingers", "aliases": ["finger", "fingers"], "line": "Twenty cursed objects holding Sukuna's power." },
+    { "term": "Special Grade", "line": "The highest rank of sorcerer or curse." },
+    { "term": "Heavenly Restriction", "line": "A binding that trades cursed energy for physical power, as with Toji." },
+    { "term": "Black Flash", "line": "A strike where cursed energy lands within a millionth of a second of the hit." },
+    { "term": "Kenjaku", "line": "Ancient sorcerer who stole Geto's body after his death." }
+  ],
+  "timeline": [
+    { "arc": "Hidden Inventory (past)", "summary": "Student Gojo and Geto; Toji nearly kills Gojo and dies; Geto later defects and kills civilians." },
+    { "arc": "Jujutsu Kaisen 0", "summary": "Yuta Okkotsu and Rika; Geto's Night Parade; Gojo kills Geto." },
+    { "arc": "Season 1 arcs", "summary": "Yuji eats Sukuna's finger; Goodwill Event; Mahito; Death Paintings." },
+    { "arc": "Shibuya Incident", "summary": "Gojo is sealed; Nanami dies; Kenjaku in Geto's body revealed." },
+    { "arc": "Culling Game", "summary": "Deadly game across Japan; Sukuna takes Megumi's body." },
+    { "arc": "Shinjuku Showdown", "summary": "Gojo is freed and dies fighting Sukuna; everyone fights together and Sukuna is defeated." }
+  ],
+  "shared_canon_events": ["tokyo jujutsu high", "kyoto", "goodwill event", "shibuya", "shibuya incident", "culling game", "shinjuku", "hidden inventory", "night parade", "yuji", "itadori", "megumi", "nobara", "yuta", "rika", "mahito", "jogo", "kenjaku", "sukuna's fingers", "domain expansion", "unlimited void", "malevolent shrine", "prison realm", "black flash", "riko amanai", "star plasma vessel"],
+  "characters_in_app": ["011_satoru_gojo", "012_ryomen_sukuna", "056_toji_fushiguro", "057_suguru_geto", "087_kento_nanami"],
+  "verify": [],
+  "sources": [{ "url": "https://jujutsu-kaisen.fandom.com/wiki/Jujutsu_Kaisen_Wiki", "checked": "unchecked" }]
+}

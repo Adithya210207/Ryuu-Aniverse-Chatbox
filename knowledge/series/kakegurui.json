@@ -1,0 +1,33 @@
+{
+  "id": "kakegurui",
+  "title": "Kakegurui",
+  "native_title": "賭ケグルイ",
+  "status": "ongoing",
+  "source": "Kakegurui manga by Homura Kawamoto and Toru Naomura (ongoing). Snapshots use the latest published arc.",
+  "world": "At the elite Hyakkaou Private Academy, social rank is decided by gambling, and students who fall into debt become 'house pets'. Transfer student Yumeko Jabami gambles for the thrill of risk itself and shakes up the Student Council led by Kirari Momobami. A stylish, intense story of games, bluffs and wild expressions.",
+  "power_system": "No powers. Gambles of every kind (cards, dice, votes) decide rank, debt and Student Council seats.",
+  "places": [
+    { "name": "Hyakkaou Private Academy", "line": "Elite school ruled by gambling." },
+    { "name": "Student Council room", "line": "Seat of Kirari Momobami's power." }
+  ],
+  "groups": [
+    { "name": "Student Council", "line": "Kirari Momobami and her members, who run the school through gambling." },
+    { "name": "Momobami clan", "line": "Powerful family behind the academy." },
+    { "name": "Yumeko's friends", "line": "Ryota Suzui and Mary Saotome." }
+  ],
+  "terms": [
+    { "term": "house pet", "aliases": ["pochi", "mike", "pet"], "line": "Student in debt, given a dog or cat name tag." },
+    { "term": "gamble", "aliases": ["gambling", "bet"], "line": "Everything at Hyakkaou is decided by betting." },
+    { "term": "Student Council election", "aliases": ["election"], "line": "Gambling election for Kirari's seat." },
+    { "term": "Momobami clan", "line": "The family Kirari comes from." }
+  ],
+  "timeline": [
+    { "arc": "Transfer", "summary": "Yumeko beats Mary and befriends Ryota." },
+    { "arc": "Student Council duels", "summary": "Yumeko defeats council members one by one." },
+    { "arc": "Election", "summary": "The Student Council election and the Momobami clan (later arcs: check the date)." }
+  ],
+  "shared_canon_events": ["hyakkaou", "student council", "kirari", "momobami", "ryota", "mary", "saotome", "midari", "itsuki", "yuriko", "house pet", "election", "rps", "voting game", "tower of doors"],
+  "characters_in_app": ["038_yumeko_jabami"],
+  "verify": ["Status and latest arc after mid-2026", "Names of specific games"],
+  "sources": [{ "url": "https://kakegurui.fandom.com/wiki/Kakegurui_Wiki", "checked": "unchecked" }]
+}

@@ -1,0 +1,106 @@
+### TTQ Chatbox – Character List
+
+| #   | Character                   | Anime                                   |
+| --- | --------------------------- | --------------------------------------- |
+| 1   | Lelouch Lamperouge          | Code Geass                              |
+| 2   | Light Yagami                | Death Note                              |
+| 3   | Kiyotaka Ayanokoji          | Classroom of the Elite                  |
+| 4   | Sosuke Aizen                | Bleach                                  |
+| 5   | Makima                      | Chainsaw Man                            |
+| 6   | Johan Liebert               | Monster                                 |
+| 7   | Osamu Dazai                 | Bungo Stray Dogs                        |
+| 8   | Yuuichi Katagiri            | Tomodachi Game                          |
+| 9   | Eren Yeager                 | Attack on Titan                         |
+| 10  | Itachi Uchiha               | Naruto                                  |
+| 11  | Satoru Gojo                 | Jujutsu Kaisen                          |
+| 12  | Ryomen Sukuna               | Jujutsu Kaisen                          |
+| 13  | Madara Uchiha               | Naruto                                  |
+| 14  | Obito Uchiha                | Naruto                                  |
+| 15  | Sung Jinwoo                 | Solo Leveling                           |
+| 16  | Saitama                     | One Punch Man                           |
+| 17  | Dio Brando                  | JoJo's Bizarre Adventure                |
+| 18  | Meruem                      | Hunter × Hunter                         |
+| 19  | Kirito                      | Sword Art Online                        |
+| 20  | Naruto Uzumaki              | Naruto                                  |
+| 21  | Sasuke Uchiha               | Naruto                                  |
+| 22  | Monkey D. Luffy             | One Piece                               |
+| 23  | Roronoa Zoro                | One Piece                               |
+| 24  | Kakashi Hatake              | Naruto                                  |
+| 25  | Levi Ackerman               | Attack on Titan                         |
+| 26  | Tanjiro Kamado              | Demon Slayer                            |
+| 27  | Killua Zoldyck              | Hunter × Hunter                         |
+| 28  | Goku                        | Dragon Ball                             |
+| 29  | Vegeta                      | Dragon Ball                             |
+| 30  | Rimuru Tempest              | That Time I Got Reincarnated as a Slime |
+| 31  | Rudeus Greyrat              | Mushoku Tensei                          |
+| 32  | Subaru Natsuki              | Re:Zero                                 |
+| 33  | Yor Forger                  | Spy × Family                            |
+| 34  | Marin Kitagawa              | My Dress-Up Darling                     |
+| 35  | Mikasa Ackerman             | Attack on Titan                         |
+| 36  | Nico Robin                  | One Piece                               |
+| 37  | Asuna Yuuki                 | Sword Art Online                        |
+| 38  | Yumeko Jabami               | Kakegurui                               |
+| 39  | Rias Gremory                | High School DxD                         |
+| 40  | Rem                         | Re:Zero                                 |
+| 41  | Miku Nakano                 | The Quintessential Quintuplets          |
+| 42  | Zero Two                    | Darling in the FranXX                   |
+| 43  | Hinata Hyuga                | Naruto                                  |
+| 44  | Ichigo Kurosaki             | Bleach                                  |
+| 45  | Orihime Inoue               | Bleach                                  |
+| 46  | Minato Namikaze             | Naruto                                  |
+| 47  | Pain (Nagato)               | Naruto                                  |
+| 48  | Shikamaru Nara              | Naruto                                  |
+| 49  | Kisuke Urahara              | Bleach                                  |
+| 50  | Kenpachi Zaraki             | Bleach                                  |
+| 51  | Byakuya Kuchiki             | Bleach                                  |
+| 52  | Shanks                      | One Piece                               |
+| 53  | Trafalgar Law               | One Piece                               |
+| 54  | Sanji                       | One Piece                               |
+| 55  | Portgas D. Ace              | One Piece                               |
+| 56  | Toji Fushiguro              | Jujutsu Kaisen                          |
+| 57  | Suguru Geto                 | Jujutsu Kaisen                          |
+| 58  | Denji                       | Chainsaw Man                            |
+| 59  | Power                       | Chainsaw Man                            |
+| 60  | Aki Hayakawa                | Chainsaw Man                            |
+| 61  | Reze                        | Chainsaw Man                            |
+| 62  | Anya Forger                 | Spy × Family                            |
+| 63  | Loid Forger                 | Spy × Family                            |
+| 64  | Damian Desmond              | Spy × Family                            |
+| 65  | Kyojuro Rengoku             | Demon Slayer                            |
+| 66  | Giyu Tomioka                | Demon Slayer                            |
+| 67  | Shinobu Kocho               | Demon Slayer                            |
+| 68  | Zenitsu Agatsuma            | Demon Slayer                            |
+| 69  | Inosuke Hashibira           | Demon Slayer                            |
+| 70  | Katsuki Bakugo              | My Hero Academia                        |
+| 71  | Shoto Todoroki              | My Hero Academia                        |
+| 72  | Izuku Midoriya (Deku)       | My Hero Academia                        |
+| 73  | All Might                   | My Hero Academia                        |
+| 74  | Tomura Shigaraki            | My Hero Academia                        |
+| 75  | Emilia                      | Re:Zero                                 |
+| 76  | Ram                         | Re:Zero                                 |
+| 77  | Beatrice                    | Re:Zero                                 |
+| 78  | Frieren                     | Frieren: Beyond Journey's End           |
+| 79  | Fern                        | Frieren: Beyond Journey's End           |
+| 80  | Jiraiya                     | Naruto                                  |
+| 81  | Aqua Hoshino                | Oshi no Ko                              |
+| 82  | Ai Hoshino                  | Oshi no Ko                              |
+| 83  | Ruby Hoshino                | Oshi no Ko                              |
+| 84  | Manjiro Sano (Mikey)        | Tokyo Revengers                         |
+| 85  | Ken Ryuguji (Draken)        | Tokyo Revengers                         |
+| 86  | Takemichi Hanagaki          | Tokyo Revengers                         |
+| 87  | Kento Nanami                | Jujutsu Kaisen                          |
+| 88  | Satoru Fujinuma             | ERASED                                  |
+| 89  | Karma Akabane               | Assassination Classroom                 |
+| 90  | Rin Okumura                 | Blue Exorcist                           |
+| 91  | Edward Newgate (Whitebeard) | One Piece                               |
+| 92  | Hachiman Hikigaya           | Oregairu                                |
+| 93  | Gintoki Sakata              | Gintama                                 |
+| 94  | Rintaro Okabe               | Steins;Gate                             |
+| 95  | Edward Elric                | Fullmetal Alchemist                     |
+| 96  | Alphonse Elric              | Fullmetal Alchemist                     |
+| 97  | Senku Ishigami              | Dr. Stone                               |
+| 98  | Artoria Pendragon (Saber)   | Fate                                    |
+| 99  | Gilgamesh                   | Fate                                    |
+| 100 | Shota Aizawa                | My Hero Academia                        |
+
+Total: 100 characters.

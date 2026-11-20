@@ -1,0 +1,40 @@
+{
+  "id": "code_geass",
+  "title": "Code Geass",
+  "native_title": "コードギアス 反逆のルルーシュ",
+  "status": "finished",
+  "source": "Code Geass: Lelouch of the Rebellion anime (R1 and R2) and the sequel film Lelouch of the Re;surrection (2019).",
+  "world": "The Holy Britannian Empire has conquered Japan and renamed it Area 11. Exiled prince Lelouch vi Britannia, living as student Lelouch Lamperouge, receives the power of Geass from the mysterious C.C. and becomes the masked rebel Zero, leading the Black Knights against his father's empire. His war ends with the Zero Requiem, where he takes all the world's hatred upon himself. In Re;surrection he is brought back and travels with C.C. Chess-like strategy, mecha battles and tragic choices.",
+  "power_system": "Geass is a power granted through a contract with an immortal Code bearer like C.C.; each Geass is different. Lelouch's Geass of Absolute Obedience works by eye contact and only once per person. Knightmare Frames are giant humanoid war machines.",
+  "places": [
+    { "name": "Area 11", "line": "Japan under Britannian rule." },
+    { "name": "Ashford Academy", "line": "School where Lelouch was student council vice-president." },
+    { "name": "Pendragon", "line": "Capital of Britannia." },
+    { "name": "Zilkhstan", "line": "Desert kingdom in Re;surrection." },
+    { "name": "C's World", "line": "Strange world connected to Geass and Codes." }
+  ],
+  "groups": [
+    { "name": "Order of the Black Knights", "line": "Zero's rebel army." },
+    { "name": "Holy Britannian Empire", "line": "The empire ruled by Emperor Charles zi Britannia." },
+    { "name": "Knights of the Round", "line": "Britannia's elite pilots; Suzaku became one." }
+  ],
+  "terms": [
+    { "term": "Geass", "line": "A supernatural power from a contract; Lelouch's commands absolute obedience." },
+    { "term": "Zero", "line": "Lelouch's masked identity." },
+    { "term": "Knightmare Frame", "aliases": ["knightmare", "knightmares"], "line": "Humanoid war machine." },
+    { "term": "Zero Requiem", "line": "Lelouch's plan to die as a hated tyrant so the world could find peace." },
+    { "term": "Code", "line": "The immortality C.C. carries." },
+    { "term": "Lancelot", "line": "Suzaku's Knightmare." },
+    { "term": "Guren", "line": "Kallen's Knightmare." },
+    { "term": "Elevens", "line": "What Britannia calls the Japanese." }
+  ],
+  "timeline": [
+    { "arc": "R1", "summary": "Lelouch gains Geass and becomes Zero; the Black Rebellion fails." },
+    { "arc": "R2", "summary": "Lelouch regains his memories, becomes emperor and stages the Zero Requiem; Suzaku as Zero kills him." },
+    { "arc": "Re;surrection", "summary": "C.C. revives Lelouch; they save Nunnally and Suzaku in Zilkhstan; he travels on with C.C. as L.L." }
+  ],
+  "shared_canon_events": ["geass", "zero", "black knights", "black rebellion", "ashford academy", "student council", "c.c.", "pizza", "suzaku", "nunnally", "kallen", "britannia", "area 11", "charles", "marianne", "zero requiem", "knightmare", "chess", "zilkhstan", "re;surrection", "shirley", "rolo"],
+  "characters_in_app": ["001_lelouch_lamperouge"],
+  "verify": [],
+  "sources": [{ "url": "https://codegeass.fandom.com/wiki/Code_Geass_Wiki", "checked": "unchecked" }]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "frieren",
+  "title": "Frieren: Beyond Journey's End",
+  "native_title": "葬送のフリーレン",
+  "status": "ongoing",
+  "source": "Frieren manga by Kanehito Yamada and Tsukasa Abe (ongoing). Snapshots use the latest published arc.",
+  "world": "After the hero Himmel's party defeats the Demon King, the elf mage Frieren outlives her friends and realises she barely knew them. Decades later she travels north with her apprentice Fern and the warrior Stark, retracing the old journey toward Aureole, where souls are said to rest. A quiet, gentle fantasy about time, memory and small kindnesses, with sharp battles against demons.",
+  "power_system": "Mages cast spells learned from grimoires; mana can be hidden or shown. Zoltraak, once a demon's killing spell, is now basic offensive magic. First-Class Mages are certified by the Continental Magic Association. Demons use human speech to deceive.",
+  "places": [
+    { "name": "Northern Plateau", "line": "Dangerous lands on the way to Aureole." },
+    { "name": "Aureole", "line": "Place where souls are said to rest, the goal of the journey." },
+    { "name": "Ende", "line": "Where the Demon King's castle stood." }
+  ],
+  "groups": [
+    { "name": "Hero Party", "line": "Himmel, Heiter, Eisen and Frieren, who defeated the Demon King." },
+    { "name": "Continental Magic Association", "line": "Group led by Serie that certifies First-Class Mages." }
+  ],
+  "terms": [
+    { "term": "Zoltraak", "line": "Ordinary offensive magic, once a demon's spell." },
+    { "term": "First-Class Mage", "aliases": ["first class mage", "exam"], "line": "Certified elite mage; Fern passed the exam." },
+    { "term": "grimoire", "aliases": ["grimoires"], "line": "Spell book; Frieren loves collecting odd spells." },
+    { "term": "mimic", "aliases": ["mimics"], "line": "Treasure-chest monster Frieren keeps falling for." },
+    { "term": "Demon King", "line": "Defeated by the Hero Party before the story." },
+    { "term": "Flamme", "line": "Frieren's late teacher." },
+    { "term": "Serie", "line": "Ancient elf, founder of the Magic Association." },
+    { "term": "flower field spell", "line": "Frieren's favourite spell, which grows flowers." }
+  ],
+  "timeline": [
+    { "arc": "After the journey", "summary": "Himmel dies; Frieren takes Fern as her apprentice after Heiter's death." },
+    { "arc": "Journey north", "summary": "Stark joins; demons including Aura are defeated." },
+    { "arc": "First-Class Mage Exam", "summary": "Fern becomes a First-Class Mage." },
+    { "arc": "Later arcs", "summary": "Northern Plateau, Golden Land and onward (latest: check the date)." }
+  ],
+  "shared_canon_events": ["himmel", "heiter", "eisen", "stark", "flamme", "serie", "aura", "first-class mage exam", "zoltraak", "demon king", "aureole", "mimic", "grimoire", "flower field", "golden land", "macht", "sein", "denken", "ubel", "land"],
+  "characters_in_app": ["078_frieren", "079_fern"],
+  "verify": ["Latest published arc after mid-2026", "Fern's age at the latest arc"],
+  "sources": [{ "url": "https://frieren.fandom.com/wiki/Frieren_Wiki", "checked": "unchecked" }]
+}

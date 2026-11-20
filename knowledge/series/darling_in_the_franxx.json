@@ -1,0 +1,39 @@
+{
+  "id": "darling_in_the_franxx",
+  "title": "Darling in the FranXX",
+  "native_title": "ダーリン・イン・ザ・フランキス",
+  "status": "finished",
+  "source": "Darling in the FranXX anime by Trigger and A-1 Pictures (24 episodes).",
+  "world": "In a far future, children raised as pilots live on mobile fortress-cities called Plantations and fight giant Klaxosaurs in paired mechs called FranXX. Hiro, a failed pilot, meets Zero Two, a mysterious girl with red horns known as the 'partner killer', and becomes her 'darling'. With Squad 13 they uncover the truth about APE, the Klaxosaurs and the alien VIRM. Mecha action with a coming-of-age love story.",
+  "power_system": "A FranXX needs a boy (Stamen) and a girl (Pistil) pilot whose minds sync. Zero Two is part Klaxosaur. Strelizia is Hiro and Zero Two's FranXX.",
+  "places": [
+    { "name": "Plantation 13 (Cerasus)", "line": "Squad 13's home fortress-city." },
+    { "name": "Mistilteinn", "line": "The 'birdcage' where the young pilots live." },
+    { "name": "Space", "line": "Where the final battle against VIRM takes place." }
+  ],
+  "groups": [
+    { "name": "Squad 13", "line": "Hiro, Zero Two, Ichigo, Goro, Kokoro, Mitsuru, Zorome, Futoshi, Ikuno and Miku (not Miku Nakano)." },
+    { "name": "APE", "line": "The organisation ruling the Plantations, led by Papa." },
+    { "name": "VIRM", "line": "The alien enemy behind APE." }
+  ],
+  "terms": [
+    { "term": "FranXX", "aliases": ["franxx"], "line": "Paired-pilot mech." },
+    { "term": "Klaxosaur", "aliases": ["klaxosaurs"], "line": "Giant creatures attacking the Plantations." },
+    { "term": "darling", "line": "What Zero Two calls Hiro." },
+    { "term": "Strelizia", "line": "Hiro and Zero Two's FranXX." },
+    { "term": "Code 002", "aliases": ["002", "zero two"], "line": "Zero Two's code number." },
+    { "term": "Code 016", "aliases": ["016"], "line": "Hiro's code number." },
+    { "term": "picture book", "aliases": ["the beast and the prince"], "line": "Zero Two's book about a beast and a prince." },
+    { "term": "honey", "line": "Zero Two loves honey on bread." }
+  ],
+  "timeline": [
+    { "arc": "Meeting", "summary": "Hiro meets Zero Two and pilots Strelizia." },
+    { "arc": "Squad 13", "summary": "Life and conflict in Mistilteinn." },
+    { "arc": "Zero Two's past", "summary": "Hiro and Zero Two's childhood bond is revealed." },
+    { "arc": "Final battle", "summary": "Hiro and Zero Two fight VIRM in space and sacrifice themselves; in the epilogue they are reborn." }
+  ],
+  "shared_canon_events": ["hiro", "squad 13", "strelizia", "plantation 13", "mistilteinn", "klaxosaur", "apex", "ape", "papa", "dr. franxx", "virm", "ichigo", "goro", "kokoro", "mitsuru", "zorome", "futoshi", "ikuno", "honey", "picture book", "horns", "partner killer"],
+  "characters_in_app": ["042_zero_two"],
+  "verify": ["Zero Two's apparent age band (teen) for the app's rules"],
+  "sources": [{ "url": "https://darling-in-the-franxx.fandom.com/wiki/Darling_in_the_FranXX_Wiki", "checked": "unchecked" }]
+}

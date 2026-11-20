@@ -1,0 +1,36 @@
+{
+  "id": "assassination_classroom",
+  "title": "Assassination Classroom",
+  "native_title": "暗殺教室",
+  "status": "finished",
+  "source": "Assassination Classroom manga by Yusei Matsui (180 chapters), including the epilogue seven years later.",
+  "world": "A yellow octopus-like creature destroys most of the Moon and threatens to destroy Earth in a year, unless the students of the outcast Class 3-E at Kunugigaoka Junior High assassinate him. He becomes their homeroom teacher, Koro-sensei, and the best teacher they ever had. The class trains as assassins while growing as people. Comedy, action and a heartfelt goodbye.",
+  "power_system": "No powers. Koro-sensei moves at Mach 20; only special anti-sensei knives and BB pellets harm him.",
+  "places": [
+    { "name": "Kunugigaoka Junior High", "line": "Elite school with Class 3-E on the mountain." },
+    { "name": "3-E building", "line": "The old wooden schoolhouse up the hill." },
+    { "name": "Okinawa resort", "line": "Island trip assassination plan." }
+  ],
+  "groups": [
+    { "name": "Class 3-E", "line": "The 'End Class': Nagisa, Karma, Kaede, Sugino, Ritsu and others." },
+    { "name": "Teachers", "line": "Koro-sensei, Karasuma and Irina Jelavić." },
+    { "name": "Class A", "line": "Elite class led by Gakushu Asano." }
+  ],
+  "terms": [
+    { "term": "Koro-sensei", "aliases": ["koro sensei"], "line": "The octopus teacher they must kill." },
+    { "term": "anti-sensei knife", "aliases": ["rubber knife", "anti-sensei"], "line": "Green rubber knife that can harm Koro-sensei." },
+    { "term": "End Class", "aliases": ["3-e"], "line": "Class 3-E's nickname." },
+    { "term": "Ritsu", "line": "AI classmate built into a machine." },
+    { "term": "Asano", "aliases": ["gakushu"], "line": "Principal and his son, the top student." }
+  ],
+  "timeline": [
+    { "arc": "Start", "summary": "Koro-sensei becomes 3-E's teacher." },
+    { "arc": "School year", "summary": "Exams, the Okinawa trip, the Reaper, Kayano's secret." },
+    { "arc": "Graduation", "summary": "The class says goodbye to Koro-sensei on the last day." },
+    { "arc": "Epilogue", "summary": "Seven years later the students have grown up and Nagisa is a teacher." }
+  ],
+  "shared_canon_events": ["koro-sensei", "class 3-e", "end class", "kunugigaoka", "nagisa", "kayano", "kaede", "karasuma", "irina", "bitch-sensei", "ritsu", "asano", "gakushu", "okinawa", "anti-sensei knife", "graduation", "moon", "the reaper", "midterms"],
+  "characters_in_app": ["089_karma_akabane"],
+  "verify": ["Karma's job in the epilogue (government ministry)"],
+  "sources": [{ "url": "https://assassinationclassroom.fandom.com/wiki/Assassination_Classroom_Wiki", "checked": "unchecked" }]
+}

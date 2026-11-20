@@ -1,0 +1,47 @@
+{
+  "id": "re_zero",
+  "title": "Re:Zero − Starting Life in Another World",
+  "native_title": "Re:ゼロから始める異世界生活",
+  "status": "ongoing",
+  "source": "Re:Zero light novels / web novel by Tappei Nagatsuki (ongoing). Snapshots use the latest published arc.",
+  "world": "Shut-in Subaru Natsuki is suddenly summoned to a fantasy world and discovers Return by Death: when he dies, he returns to an earlier checkpoint with his memories. He serves Emilia, a half-elf candidate in the royal selection for the Kingdom of Lugunica, at Roswaal's mansion with the twin maids Rem and Ram. Each arc forces Subaru through deaths and loops to save the people he loves. Dark, emotional and full of hard-won growth.",
+  "power_system": "Magic uses mana and elements (fire, water, wind, earth, yin, yang). Spirits make contracts with people. The Witch Cult's Archbishops of Sin hold Witch Factors. Subaru's Return by Death cannot be told to anyone; trying causes pain.",
+  "places": [
+    { "name": "Kingdom of Lugunica", "line": "The kingdom choosing a new ruler through the royal selection." },
+    { "name": "Roswaal Mansion", "line": "Where Emilia, Subaru, Rem, Ram and Beatrice live." },
+    { "name": "Forbidden Library", "line": "Beatrice's library inside the mansion." },
+    { "name": "Sanctuary", "line": "Barrier-sealed village of the Arc 4 trials." },
+    { "name": "Priestella", "line": "Water city attacked by the Witch Cult." },
+    { "name": "Pleiades Watchtower", "line": "Tower in the sand sea visited in Arc 6." }
+  ],
+  "groups": [
+    { "name": "Emilia Camp", "line": "Emilia's royal selection team: Subaru, Roswaal, Rem, Ram, Beatrice, Otto, Garfiel." },
+    { "name": "Witch Cult", "line": "Cult led by the Archbishops of Sin." },
+    { "name": "Royal selection candidates", "line": "Emilia, Crusch, Priscilla, Anastasia and Felt." }
+  ],
+  "terms": [
+    { "term": "Return by Death", "aliases": ["loop", "loops", "checkpoint"], "line": "Subaru's secret power to return in time when he dies." },
+    { "term": "royal selection", "line": "Contest to choose Lugunica's next ruler." },
+    { "term": "Witch of Envy", "aliases": ["satella"], "line": "The feared witch; Emilia looks like her." },
+    { "term": "Archbishop of Sin", "aliases": ["archbishops"], "line": "Leaders of the Witch Cult (Sloth, Greed, Wrath, Gluttony, Lust)." },
+    { "term": "Gluttony", "line": "Archbishops who eat names and memories, as they did to Rem." },
+    { "term": "Puck", "line": "Emilia's former spirit partner, a small cat spirit." },
+    { "term": "oni", "aliases": ["demon", "horn"], "line": "Rem and Ram's demon race; Ram lost her horn." },
+    { "term": "contract", "line": "Bond between a spirit and a person, like Beatrice and Subaru." }
+  ],
+  "timeline": [
+    { "arc": "Arc 1: Capital", "summary": "Subaru meets Emilia; loops at the loot house." },
+    { "arc": "Arc 2: Mansion", "summary": "Subaru earns Rem and Ram's trust." },
+    { "arc": "Arc 3: Capital again", "summary": "Royal selection; Subaru breaks down; Rem's confession of support; the White Whale and Sloth defeated." },
+    { "arc": "Arc 4: Sanctuary", "summary": "Trials; Subaru and Emilia grow; Beatrice contracts with Subaru." },
+    { "arc": "Arc 5: Priestella", "summary": "Battle against several Archbishops." },
+    { "arc": "Arc 6: Watchtower", "summary": "Pleiades Watchtower; Rem wakes at the end without her memories." },
+    { "arc": "Arc 7 and later", "summary": "Vollachia arcs (latest: check the date)." },
+    { "arc": "Arc 9: Light of the Nameless Star", "summary": "Aldebaran's arc (ended Nov 2025)." },
+    { "arc": "Arc 10", "summary": "Began Jan 2026, ongoing." }
+  ],
+  "shared_canon_events": ["return by death", "royal selection", "roswaal mansion", "forbidden library", "white whale", "petelgeuse", "sloth", "sanctuary", "garfiel", "otto", "puck", "crusch", "felt", "reinhard", "priestella", "pleiades watchtower", "vollachia", "witch cult", "satella", "echidna", "rem's sleep", "mayonnaise"],
+  "characters_in_app": ["032_subaru_natsuki", "040_rem", "075_emilia", "076_ram", "077_beatrice"],
+  "verify": ["Arc 10 events so far", "Rem's state (memory, location) at the latest arc"],
+  "sources": [{ "url": "https://rezero.fandom.com/wiki/Re:Zero_Wiki", "checked": "unchecked" }]
+}

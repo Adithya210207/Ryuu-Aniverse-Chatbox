@@ -1,0 +1,32 @@
+{
+  "id": "my_dress_up_darling",
+  "title": "My Dress-Up Darling",
+  "native_title": "その着せ替え人形は恋をする",
+  "status": "finished",
+  "source": "My Dress-Up Darling manga by Shinichi Fukuda (finished).",
+  "world": "Shy high-schooler Wakana Gojo trains to be a hina doll craftsman like his grandfather and hides his love of dolls. Popular gyaru classmate Marin Kitagawa discovers his sewing skills and asks him to make her cosplay costumes. Their cosplay projects pull in new friends and slowly turn into a sweet romance. A warm, colourful story about passion and accepting what you love.",
+  "power_system": "No powers. The focus is cosplay craft: costumes, wigs, make-up, photography and doll making.",
+  "places": [
+    { "name": "Gojo's home and workshop", "line": "Where Gojo works on hina dolls and costumes." },
+    { "name": "School", "line": "Where Marin and Gojo are classmates." },
+    { "name": "Cosplay events", "line": "Conventions and photo shoots they attend." }
+  ],
+  "groups": [
+    { "name": "The cosplay friends", "line": "Marin, Gojo, Juju and Shinju Inui, Akira (Amane) and others." }
+  ],
+  "terms": [
+    { "term": "cosplay", "aliases": ["cosplaying", "costume"], "line": "Dressing up as characters; Marin's passion." },
+    { "term": "hina doll", "aliases": ["hina dolls", "dolls"], "line": "Traditional dolls Gojo crafts." },
+    { "term": "gyaru", "line": "Fashion style Marin wears." },
+    { "term": "Shizuku-tan", "aliases": ["shizuku"], "line": "The first character Marin cosplayed with Gojo's help." }
+  ],
+  "timeline": [
+    { "arc": "First cosplay", "summary": "Marin asks Gojo to make her Shizuku-tan costume." },
+    { "arc": "New friends", "summary": "Juju and Shinju join their projects." },
+    { "arc": "Later chapters and ending", "summary": "More cosplays, school events and their relationship (ending details: verify)." }
+  ],
+  "shared_canon_events": ["cosplay", "shizuku-tan", "juju", "shinju", "inui", "hina doll", "grandpa", "photo shoot", "school festival", "wig"],
+  "characters_in_app": ["034_marin_kitagawa"],
+  "verify": ["How the series ends (relationship status, school year)", "Marin's age at the end"],
+  "sources": [{ "url": "https://sono-bisque-doll-wa-koi-wo-suru.fandom.com/wiki/Sono_Bisque_Doll_wa_Koi_wo_Suru_Wiki", "checked": "unchecked" }]
+}
