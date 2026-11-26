@@ -1,25 +1,73 @@
-MIT License
+Ryuu Aniverse — Proprietary License (All Rights Reserved)
 
-Copyright (c) 2026 Ryuu Aniverse contributors
+Copyright (c) 2026 Adithya V. All Rights Reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This repository and everything in it that was created by the copyright holder
+(the "Work") — including the source code, the application and its releases,
+the chat engine, judge and word rules, the character knowledge packs, prompts
+and rules (knowledge/), the image prompts, the tests (eval/), the Modelfiles,
+the tools, the design record and the documentation and screenshots — is the
+property of the copyright holder.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. PERMITTED USE
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+   The Work is published for portfolio, demonstration, and educational viewing
+   purposes. You may:
 
-Note: this licence covers the source code. The character knowledge packs and
-tests (knowledge/, eval/) are licensed CC BY-NC 4.0 (non-commercial), and the
-AI models used by the app have their own licences: see tools/release_NOTICE.txt.
+   a. view and read the source code to understand how it is implemented; and
+   b. download, install and run the Work on your own computer for your own
+      personal, non-commercial use, making only the copies needed to do that.
+      Using the app as intended (adding your own portraits, keeping your own
+      chats, profiles and favourites) is part of this personal use.
+
+   Section 1(b) applies even though section 2(a) restricts copying.
+
+2. RESTRICTIONS
+
+   Apart from the personal use allowed in section 1, and without the prior
+   written permission of the copyright holder, you may NOT:
+
+   a. copy or reproduce substantial portions of the Work;
+   b. redistribute, republish, or mirror the Work or this repository;
+   c. use the Work, or any part of its code or knowledge packs, in commercial
+      projects;
+   d. submit the Work, or substantially similar code, as your own for academic
+      purposes;
+   e. remove or alter copyright notices, or claim the Work as your own;
+   f. share, sell, rent or re-upload the Work, or a changed version of it,
+      including copies you downloaded for personal use;
+   g. change the source code and use or share the changed version.
+
+   No other rights are granted, whether by implication, estoppel, or otherwise.
+
+3. PERMISSION
+
+   If you would like to use any part of this project, please contact the
+   copyright holder first and ask for permission.
+
+4. THIRD-PARTY MATERIAL
+
+   This license covers only the Work created by the copyright holder.
+   The following parts belong to their own owners and remain under their own
+   terms; nothing in this license grants or changes any rights in them:
+
+   - All anime characters, names, series and stories referred to in this
+     project belong to their creators, publishers and studios. This is an
+     unofficial, non-commercial fan project, not affiliated with or endorsed by
+     them. The character texts are original summaries written for this project.
+   - L3-8B-Stheno-v3.2 (the chat model) by Sao10K, licensed under CC BY-NC 4.0,
+     built on Meta Llama 3 and subject to the Meta Llama 3 Community License.
+   - phi4-mini (the judge model) by Microsoft, licensed under the MIT License.
+   - JavaFX / OpenJFX, licensed under GPL v2 with the Classpath Exception.
+   - Ollama, used as a tool under its own terms (MIT License).
+
+   See tools/release_NOTICE.txt.
+
+5. NO WARRANTY
+
+   THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+   CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE WORK.
